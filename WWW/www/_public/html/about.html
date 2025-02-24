@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/about.css" charset="utf-8">
+    <link rel="stylesheet" href="../css/main.css" charset="utf-8">
+    <link rel="icon" href="../icons/LogoTuga2_32.png">
+    <title>tugaRxiv</title>
+</head>
+<body>
+    <!-- Header da pagina -->
+    <div class="nav-container">
+        <div class="nav-logo">
+            <a href="/" id="navlogo">
+                <img type="icon" src="../image/logo.png" alt="tugaRxiv">
+            </a>
+        </div>
+        <div class="block" id="navusersbtn"></div> <!-- Dinamic User Bottons-->
+        <div class="user-options" id="useroptions">
+            <div class="user-options-btn"><a href="/changePass">Change Password</a></div>
+            <div class="user-options-btn"><a href="/modifyEmail">Modify Email</a></div>
+            <div class="user-options-btn"><a href="/deleteAccount">Delete Account</a></div>
+            <div class="user-options-btn"><a href="/users/logout">Logout</a></div>
+        </div>
+    </div>
+    <!-- Container Central -->
+    <div class="main" id="main">
+        <div class="about-content-supercontainer">
+            <div class="about-main-container">
+                <div class="about-title-container">
+                    <div class="about-title">
+                        <div class="btn-about-title">About</div>
+                    </div>
+                </div>
+                <div class="about-content">
+                    <div class="about-content-text">
+                        <p>The creation of tugaRxiv was proposed as the final project of the degree on Management Informatics at UAL – Universidade Autonoma de Lisboa.</p>
+                        <p>Reach this stage was only possible with the effort, dedication and collaboration with several persons through the course of our training so we do not want to pass this opportunity to say  THANK YOU.</p>
+                        <p>First of all, our biggest thank you to our project coordinator and best advisor, Professor Gonçalo Valadão Matias, for his support, availability and help in the project development process throughout this semester. We also extend our gratitude towards the remain course teachers since this project is the culmination of several lessons learned with them.</p>
+                        <p>A special dedication to all the colleagues of the Management Informatics class for the help in this “battle” over the last 3 years, especially in a difficult situation like the pandemic of Covid-19, in which we’ve had to adapt to a new "normality" and where it took several sacrifices to achieve our goals.</p>
+                        <p>Finally, we would like address our thanks to all our family and friends who supported, motivated and always believed on our abilities. Even knowing that our dedication would take away precious time on our relationships, they said “Go ahead. You can do it”.</p>
+                        <p>Also our appreciation to several sources who provide the necessary information and tools used in this project:</p>
+                        <ul>
+                            <li>Biorxiv and Medrxiv for the free access to the preprints information and support on using it.</li>
+                            <li>Microsoft, MongoDB inc, Insomnia by Kong and Ubunt for the software, tools and support information.</li>
+                            <li>Linux and Raspberry Pi Communities, W3School, Stackoverflow Community and Mozilla MDN for all the support information, tips, and clarifications on several code and technical aspects.</li>
+                        </ul>
+                        <p>To all, the most sincere THANK YOU VERY MUCH!</p>
+                        <p id="about-content-bold"><b>“The victory is reserved for those who are willing to pay the price”</b> Sun Tzu,  The Art Of War</p>
+                        <p>Luís Mergulhão</p>
+                        <p>Ricardo Tomás</p>
+                        <p>Sandra Lourenço</p>
+                        <img src="../image/UAL.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer da Pagina -->
+
+    <div class="footer">
+        <div class="footer-links">
+            <div class="link link-left">
+                <a href="javascript:window.open('/faq','_self')">
+                    FAQ
+                </a>
+            </div>
+            <div class="link link-left">
+                <a href="javascript:window.open('/about','_self')">
+                    About
+                </a>
+            </div>
+            <div class="link">
+                <a href="javascript:window.open('/contactus','_self')">
+                    Contact Us
+                </a>
+            </div>
+        </div>
+        <div class="footer-links">
+            <div class="link">
+                @All rights reserved
+            </div>
+        </div>
+    </div>
+</body>
+<script type="module" src="../js/startup.js"></script>
+<script type="module" src="../js/about.js"></script>
+</html>

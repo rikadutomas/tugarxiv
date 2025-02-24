@@ -1,0 +1,197 @@
+
+:root{
+    --r:#FF0023;
+    --g:#00AF54;
+    --y:#FFBB2F;
+}
+
+*{
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin:0;
+}
+
+a{
+    color:var(--g);
+}
+a:hover{
+    color:var(--y);
+}
+a:active{
+    color:var(--r);
+}
+
+input, input:focus{
+    border:none;
+    outline:none;
+}
+
+/* textarea:focus,input, input:focus, input:valid{
+    outline: none;
+    background-color: #fff;
+} */
+
+@keyframes autofill {
+    0%,100% {
+        color: #000;
+        background: transparent;
+    }
+}
+
+input:-webkit-autofill {
+    animation-delay: 1s;
+    animation-name: autofill;
+    animation-fill-mode: both;
+    -webkit-animation-delay: 1s; /* Safari support - any positive time runs instantly */
+    -webkit-animation-name: autofill;
+    -webkit-animation-fill-mode: both;
+}
+
+html,body{
+    height:100%;
+    padding:0;
+    margin:0;
+}
+
+html{
+    background-color: black;
+    background-image: url("../image/lib_picture_blur2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.login-container{
+    width:20%;
+    height:60%;
+    min-width:300px;
+    min-height:450px;
+    background-color: rgba(0, 0, 0, 0.548);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top:40px;
+    border-radius: 10px;
+    margin-top: 5%;
+
+}
+.logo{
+    margin-bottom: 10%;
+}
+.logo > a > img{
+    width:200px;
+}
+.begin-session{
+    margin-bottom: 5%;
+}
+
+.begin-session > h6{
+    color:#ddd;
+    font-size: 16px;
+    letter-spacing: 2px;
+
+}
+
+.email{
+    background-color:#fff;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+.password-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+    background-color:#fff;
+    padding: 3px;
+    margin-top: 10px;
+    border-radius: 3px;
+}
+#login-password,#login-email{
+    border-style: none;
+}
+
+.link-forgot-sign{
+    display:flex;
+    flex-direction: row;
+    color:#ddd;
+    height:20px;
+}
+.link-forgot-sign>a{
+    color:#fff;
+}
+
+.submit-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--g);
+    border:1px solid #ddd;
+    border-radius: 5px;
+    width: 130px;
+    height:30px;
+    margin-top:40px;
+}
+.submit-btn > a{
+    color:#fff;
+}
+.submit-btn:hover{
+    background-color: var(--y);
+}
+.submit-btn:active{
+    background-color: var(--r);
+}
+
+.return-msg{
+    color:var(--r);
+    text-align: center;
+    font-size: 13px;
+    margin:0px 50px;
+    min-height:30px;
+}
+
+.msg-box{
+    background-color: none;
+    color:#ddd;
+    margin:0px 50px 20px 50px;
+    text-align: center;
+}
+
+.msg-box > p{
+    margin-bottom: 5%;
+}
+
+.msg-box-delete{
+    color: #ddd;
+    text-align: center;
+    width:280px;
+    margin-bottom: 5%;
+}
+.msg-box-delete > h3{
+    color:var(--y);
+    margin-top: 5%;
+}
+
+.title{
+    color:var(--y);
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+.cya-container{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    
+}
+.cya-container > img{
+    width:100px;
+}

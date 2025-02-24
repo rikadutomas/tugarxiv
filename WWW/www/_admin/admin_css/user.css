@@ -1,0 +1,64 @@
+.users-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.search-users {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom:20px;
+}
+.search-users > button {
+    width: 25px;
+    height: 25px;
+    /* border-radius: 5%; */
+    border: none;
+    /* border: 1px solid; */
+    cursor: pointer;
+}
+.search-users > button > img {
+    width: 20px;
+    height: 20px;
+}
+.search-users > button:hover {
+    background-color: var(--y);
+    border: 1px solid;
+}
+.user-table-container {
+    display:flex;
+    flex-direction: row;
+}
+.user-table > tbody > tr > th, .user-table > tbody > tr > td {
+    border-collapse: collapse;
+    padding: 5px 15px;
+    text-align: left;
+    cursor: pointer;
+    font-size: 12px;
+}
+.user-table > tbody > tr:nth-child(even) {
+    background-color: rgb(220, 211, 211);
+}
+.user-table > tbody > tr:nth-child(odd) {
+   background-color: rgb(189, 180, 180);
+}
+.user-table > tbody > tr > th {
+    background-color: #3F372D;
+    color: white;
+}
+.user-table > tbody > tr:hover {
+    background-color: var(--y);
+}
+.user-delete-btn-td:hover{
+    background-color: var(--r);
+}
+.user-delete-btn-td:active{
+    background-color: #ccc;
+}
+
+.user-delete-btn > img {
+    height: 18px;
+}

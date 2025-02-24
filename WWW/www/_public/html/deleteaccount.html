@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/login.css">
+    <link rel="icon" href="./icons/LogoTuga2_32.png">
+    <title>tugaRxiv</title>
+</head>
+<body>
+    <div class="login-container">
+        <div class="logo">
+            <a href="/">
+                <img src="../image/logo_background.png">
+            </a>
+        </div>
+        <div class="begin-session">
+            <h6>Delete Account</h6>
+        </div>
+        <div class="msg-box-delete">
+            <p>Are you sure you wan't to delete your account?</p>
+            <p>After the submit all your related data will be purged.</p>
+            <h3>This step is immediate and no longer reversible!</h3>
+        </div>
+        <div class="email-pass-container">
+            <div class="password-container">
+                <div>
+                    <input id="login-password-current" type="password" placeholder="Current Password">
+                </div>
+                <div class="pass-logo">
+                    <a href="javascript:;" onclick="javascript:toglePassView('login-password-current','pass-img-current')">
+                        <img id="pass-img-current" src="../icons/view_pass.png" alt="" width=18px>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="return-msg">
+            <h4 id="err-msg"></h4>
+        </div>
+        <div class="submit-btn">
+                <a class="begin-button" href="javascript:;" onclick="javascript:runDeleteAccount()">Submit</a>
+        </div>
+    </div>
+</div> 
+
+<script src="../js/login.js"></script>
+</body>
+</html>

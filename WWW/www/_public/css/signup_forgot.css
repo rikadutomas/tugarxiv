@@ -1,0 +1,36 @@
+.accept-terms {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    align-self: center;   
+    margin-bottom: 40px;    
+}
+.accept-terms > h1 {
+    display: flex;
+    margin-left: 4px;
+    margin-right: 4px;
+    font-size: x-small;
+    color: #ddd;
+    margin-top: 4px;
+}
+.accept-terms > a {
+    display: flex;
+    color: #FFBB2F;
+    text-decoration: underline;
+    font-size: x-small;
+    margin-top: 4px;
+}
+.accept-terms > a:hover {
+    color: #00AF54;
+}
+
+.blank {
+    margin-top: 60px;
+}
+
+.name{
+    margin-bottom: 10px;
+}
+.name>input{
+    border:none;
+}

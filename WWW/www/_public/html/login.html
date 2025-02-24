@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/login.css">
+    <link rel="icon" href="./icons/LogoTuga2_32.png">
+    <title>tugaRxiv</title>
+</head>
+<body>
+    <div class="login-container">
+        <div class="logo">
+            <a href="/"><img src="../image/logo_background.png"></a>
+        </div>
+        <div class="begin-session">
+            <h6>Login</h6>
+        </div>
+        <div class="email-pass-container">
+            <div class="email">
+                <input id="login-email" type="email" placeholder="Email">
+            </div>
+            <div class="password-container">
+                <div>
+                    <input id="login-password" type="password" placeholder="Password">
+                </div>
+                <div class="pass-logo">
+                    <a href="javascript:;" onclick="javascript:toglePassView()">
+                        <img id="pass-img" src="../icons/view_pass.png" alt="" width=18px>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="return-msg">
+            <h4 id="err-msg"></h4>
+        </div>
+        <div class="link-forgot-sign">
+            <h6>Forgot your password? <a href="/forgotpassword">HERE</a></h6>
+        </div>
+        <div class="link-forgot-sign">
+            <h6>Don't have an account yet? Sign up <a href="/signup">HERE</a></h6>
+        </div>
+        <div class="submit-btn">
+            <a class="begin-button" href="javascript:;" onclick="javascript:runLogin()">Login</a>
+        </div>
+    </div>
+</body>
+<script src="../js/login.js"></script>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/main.css" charset="utf-8">
+    <link rel="stylesheet" href="./css/index.css" charset="utf-8">
+    <link rel="icon" href="./icons/LogoTuga2_32.png">
+    <title>tugaRxiv</title>
+</head>
+<body>
+    <!-- Header da pagina -->
+    <div class="nav-container">
+        <div class="nav-logo">
+            <a href="/" id="navlogo">
+                <img type="icon" src="./image/logo.png" alt="tugaRxiv">
+            </a>
+        </div>
+        <div class="block" id="navusersbtn"></div> <!-- Dinamic User Bottons-->
+        <div class="user-options" id="useroptions">
+            <div class="user-options-btn"><a href="/changePass">Change Password</a></div>
+            <div class="user-options-btn"><a href="/modifyEmail">Modify Email</a></div>
+            <div class="user-options-btn"><a href="/deleteAccount">Delete Account</a></div>
+            <div class="user-options-btn"><a href="/users/logout">Logout</a></div>
+        </div>
+    </div>
+    <!-- Container Central -->
+    <div class="main" id="main">
+        <div class="container-top">
+            <div class="container-top-top"></div>
+            <div class="container-top-middle">
+                <div class="container-top-middle-center">
+                    <div class="image-box">
+                        <img src="./image/logo.png" alt="">
+                    </div>
+                    <form action="/search" method="get">
+                        <div class="container-searchbox">
+                            <input type="text" name="search" placeholder="Search" id="search-box"> 
+                            <div class="container-search-icon">
+                                <!-- <a href=""><img src="./icons/search.png" alt="" onclick="submit"></a> -->
+                                <button><img src="./icons/search.png" alt="" onclick="submit"></button>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="advanced-l">
+                        <div class="advanced-link">
+                            <a href="/search">
+                                Advanced Search
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container-top-bottom"></div>
+        </div>
+        <div class="container-bellow">
+            <div class="container-categories">
+                <div class="container-categories-btn">
+                    <button id="btn-main-bio" class="btn-index-categories btn-index-categories-selected">BioRxiv</button>
+                    <button id="btn-main-med" class="btn-index-categories ">MedRxiv</button>
+                </div>
+                <div class="tabel" id="tblBiorxiv"></div> <!-- JS insertion of categories -->
+            </div>
+            <div class="container-results">
+                <div class="container-res-btns">
+                    <div class="res-btns-container">
+                        <button id="btn-most_recent" class="btn-index-results btn-index-results-selected">Most Recent</button>
+                        <button id="btn-most-viewed" class="btn-index-results">Most Viewed</button>
+                        <button id="btn-main-statistics" class="btn-index-results">Statistics</button>
+                    </div>
+                    <div class="res-btns-container-right">
+                        <!-- <img src="./icons/order.png"> -->
+                    </div>
+                </div>
+                <div id="IndexPageArticles" class="container-res-cat"></div> <!-- JS insertion of Recent / Most viewed / Statistics articles-->                   
+            </div>
+        </div>    
+    </div>
+    <!-- Footer da Pagina -->
+
+    <div class="footer">
+        <div class="footer-links">
+            <div class="link link-left">
+                <a href="javascript:window.open('/faq','_self')">
+                    FAQ
+                </a>
+            </div>
+            <div class="link link-left">
+                <a href="javascript:window.open('/about','_self')">
+                    About
+                </a>
+            </div>
+            <div class="link">
+                <a href="javascript:window.open('/contactus','_self')">
+                    Contact Us
+                </a>
+            </div>
+        </div>
+        <div class="footer-links">
+            <div class="link">
+                @All rights reserved
+            </div>
+        </div>
+    </div>
+</body>
+<script type="module" src="./js/startup.js"></script>
+<script type="module" src="./js/index.js"></script>
+</html>

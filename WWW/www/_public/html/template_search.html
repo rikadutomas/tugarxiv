@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css" charset="utf-8">
+    <link rel="stylesheet" href="css/search.css" charset="utf-8">
+    <link rel="icon" href="./image/newtry.png">
+    <title>tugaRxiv</title>
+</head>
+<body>
+    <!-- Header da pagina -->
+    <div class="nav-container">
+        <div class="nav-logo">
+            <a href="/" id="navlogo">
+                <img type="icon" src="./image/logo.png" alt="tugaRxiv">
+            </a>
+        </div>
+        <div class="block" id="navusersbtn"></div> <!-- Dinamic User Bottons-->
+        <div class="user-options" id="useroptions">
+            <div class="user-options-btn"><a href="/changePass">Change Password</a></div>
+            <div class="user-options-btn"><a href="/modifyEmail">Modify Email</a></div>
+            <div class="user-options-btn"><a href="/deleteAccount">Delete Account</a></div>
+            <div class="user-options-btn"><a href="/users/logout">Logout</a></div>
+        </div>
+    </div>
+    <!-- Container Central -->
+    <div class="main-container" id="main-container">
+         
+    </div>
+
+    <!-- Footer da Pagina -->
+
+    <div class="footer">
+        <div class="footer-links">
+            <div class="link link-left">
+                <a href="javascript:loadFAQs()">
+                    FAQ
+                </a>
+            </div>
+            <div class="link">
+                <a href="javascript:Contact()">
+                    Contact Us
+                </a>
+            </div>
+        </div>
+        <div class="footer-links">
+            <div class="link">
+                @All rights reserved
+            </div>
+        </div>
+    </div>
+</body>
+<script src="./js/startup.js"></script>
+<script type="module" src="./js/index.js"></script>
+</html>

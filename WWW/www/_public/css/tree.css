@@ -1,0 +1,354 @@
+
+.container-tree{
+    display:flex;
+    flex-direction:column;
+}
+
+.tree-favorite{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:2px 10px;
+    margin-top:20px;
+    margin-bottom:10px;
+    background-color:#A55520;
+    border-top:1px solid rgba(242, 138, 40, 0);
+    border-bottom:1px solid rgba(242, 138, 40, 0);
+    align-items: center;
+    width:315px;
+}
+.tree-favorite:hover{
+    border-top:1px solid rgb(242, 137, 40);
+    border-bottom:1px solid rgb(242, 137, 40);
+    cursor: pointer;
+}
+
+.splitter{
+    width:100%;
+    height:2px;
+}
+/* .splitter-hover{
+    background-color:#e8e8e8 ;
+    border: 1px solid #e8e8e8 ;
+} */
+
+
+
+.favorite-label{
+    color:#ddd;
+    font-weight:bold;
+}
+.btn-folderops,
+.btn-ops-favorites{
+    color:#ddd;
+    font-weight:bold;
+    font-size: 13px;
+    border:1px solid rgba(221, 221, 221, 0);
+    border-radius: 3px;
+    padding:1px 4px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.btn-folderops{
+    visibility:hidden;
+}
+.toggler:hover .btn-folderops{
+    visibility:visible;
+}
+.btn-folderops:hover,.btn-ops-favorites:hover{
+    color:#ddd;
+    font-weight:bold;
+    border:1px solid rgb(221, 221, 221);
+    border-radius: 3px;
+    background-color: #333;
+    padding:1px 4px;
+    align-items: center;
+    justify-content: center;
+    cursor:pointer;
+    
+}
+
+ul {
+    margin-left: 0;
+    list-style-type: none;
+}
+
+.tree-item{
+    padding: 0px 0px;
+}
+
+
+.toggler{
+    color:#ccc;
+    border-top: 1px solid #a5552000;
+    border-bottom: 1px solid #a5552000;
+    padding:3px 0px;
+    
+}
+
+.toggler:hover{
+    border-top: 1px solid #a5552054;
+    border-bottom: 1px solid #a5552054;
+    background:#a5552054;
+    cursor:pointer;
+}
+
+.select,.select:hover{
+    border-top:1px solid rgb(242, 137, 40);
+    border-bottom:1px solid rgb(242, 137, 40);
+    background-color: rgba(85, 85, 85, 0.487);
+    
+}
+.select > .toggler,.select:hover>.toggler{
+    color:#ffffff;
+    font-weight: 600;
+}
+
+.tree-item::before{
+    display:inline-block;
+    
+}
+
+.toggler{
+    color:#ccc;
+    padding-left:22px;
+    display:flex;
+}
+
+.fld-wrp{
+    display:flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-right:10px;
+}
+.lbl-fld{
+    display: flex;
+}
+
+.lbl-fld-img>img{
+    height:12px;
+    margin-right:5px;
+}
+.lbl-fld-lbl{
+    color:#ccc;
+}
+.wrp-left>img{
+    height:12px;
+    margin-right:5px;
+}
+.toggler.fld{
+    padding-left:0px;
+}
+
+.toggler.fld::before{
+    content:'\25b6';
+    display:inline-block;
+    margin-right:5px;
+    margin-left:5px;
+    transition:transform 0.2s ease-in-out;
+}
+
+.toggler.active::before{
+    transform:rotate(90deg);
+}
+
+.toggler-target{
+    display:none;
+    padding-left: 20px;
+    transition:0.5s ease-in-out;
+}
+.toggler-target.active{
+    display:block;
+    padding-bottom:5px;
+}
+
+/* .toggler-target{
+    transition: opacity 1s ease-in-out,height 1s ease-in-out;;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    padding-left: 20px;
+}
+.toggler-target.active{
+    transition: opacity 1s ease-in-out;
+    opacity: 1;
+    height: auto;
+} */
+
+.float-menu{
+    visibility:hidden;
+    position:absolute;
+    /* top:300;
+    left:200; */
+}
+
+.btnfoldermenu{
+    width:130px;
+    /* height:70px; */
+    padding:0px 5px;
+    display:flex;
+    flex-direction: column;
+    border: 1px solid rgb(242, 137, 40);
+    background-color: #4f4438;
+    padding-bottom:5px;
+}
+.btnFolderMenu-item{
+    color:#fff;
+    font-weight: bold;
+    padding:5px 10px;
+    margin-top: 5px;
+}
+.btnFolderMenu-item:hover{
+    background-color: #a55520c4;
+    cursor:pointer;
+}
+
+.req-fld-name{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 350px;
+    height: 200px;
+    border: 1px solid rgb(242, 137, 40);
+    background-color: #4f4438;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.req-fld-name-central{
+    width:70%;
+}
+.req-fld-name-lbl{
+    margin-bottom:10px;
+    color:#fff;
+    font-size: 15px;
+}
+.req-fld-name-input > input{
+    width:100%;
+}
+.req-fld-name-btn{
+    display:flex;
+    margin-top:10px;
+    justify-content: flex-end;
+    width:100%;
+}
+
+.req-fld-name-btn > *{
+    padding:5px 10px;
+    background-color: #a55520;
+    border:1px solid #F5EDF0;
+    border-radius: 5px;
+    color:#fff;
+    margin-left:20px;
+}
+
+.fldcontent-container-lbl{
+    font-size:15px;
+    font-weight: bold;
+    margin-top:20px;
+    padding-bottom:5px;
+    border-bottom: 1px solid #333;
+}
+.fldcontent-container-nocontent{
+    font-size:15px;
+    font-weight: bold;
+    margin-top:20px;
+    padding-bottom:5px;
+}
+
+
+.fldcontent-fld-container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+    /* justify-content: center; */
+    /* background-color: #ccc; */
+    max-width: 100%;
+
+}
+.fldcontent-fld-item{
+    width: 60px;
+    /* max-height:100px; */
+    overflow: hidden;
+    margin:10px;
+    /* padding-left:10px; */
+    padding: 5px;
+    border:1px solid rgba(204, 204, 204, 0);
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor:pointer;
+}
+
+.fldcontent-fld-item:hover{
+    background-color: #eee;
+    border:1px solid rgb(204, 204, 204);
+}
+/* .fldcontent-fld-item:active{
+    background-color: #eee;
+    border:1px solid rgb(102, 102, 102);
+} */
+
+.fldcontent-fld-item-img>img{
+    width:50px;
+}
+.fldcontent-fld-item-lbl{
+    font-size: 10px;
+    text-align:center;
+}
+
+.title-separator{
+    margin:0px 5px;
+}
+.title-fav{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.title-fav:hover,.title-item:hover{
+    text-decoration: underline;
+    cursor:pointer;
+}
+
+.related-article:hover{
+    cursor:pointer;
+}
+
+.nolink{
+    text-decoration: none; 
+}
+
+/* Drag */
+
+.draggable{
+    padding:0px;
+}
+.tree-favorite.draggable{
+    padding:2px 10px;
+}
+.fldcontent-fld-item.draggable{
+    padding: 5px;
+}
+.dragging{
+    background-color: #88a5208a;
+    border:2px solid #88a520;
+    cursor:move;
+}
+
+.overdrag{
+    background-color: rgba(77, 145, 122, 0.446);
+}
+.splitter.overdrag{
+    background-color: rgb(255, 255, 255);
+}
+
+.tuesmesmoestupido{
+    background-color: pink;
+
+}

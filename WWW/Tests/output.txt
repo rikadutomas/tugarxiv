@@ -1,0 +1,469 @@
+Express Server running on port 3500
+DB connection established
+::ffff:192.168.0.1
+profile : admin
+profile : admin
+[ { profile: 'admin',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6dc33b7901aa4f525e3e,
+    name: 'Sandra',
+    email: 'spatricia.lourenco@gmail.com',
+    password:
+     '$2a$10$wtM0AnYBsMsDsqsJ4xpXoeiBJHrntLudWOHBsUF6OM7F7R.jNn8P2',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6e953b7901aa4f525e3f,
+    name: 'Sandra Lourenço',
+    email: '30002835@students.ual.pt',
+    password:
+     '$2a$10$hX0yCCU3shYZHVb3ioCEDuCeHamBhovBF8U.DdlfwniuifTt/mA36',
+    __v: 0 },
+  { profile: 'admin',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"dfgdfg","type":"directory","id":"1624727580054","child":[{"name":"kl.gfhlfkjdgh;l","type":"directory","id":"1624727621618","child":[]}]},{"name":"Non The Less","type":"directory","id":"1624744603819","child":[{"name":"flkgdjhdskljfh","type":"directory","id":"1624727614307","child":[]},{"name":"oioioiiooioi","type":"directory","id":"1624727645761","child":[{"name":"oiuoiuouoi","type":"directory","id":"1624727635014","child":[]},{"name":"Opel","type":"directory","id":"1624723749212","child":["",{"name":"wqeqwe","type":"directory","id":"1624727596877","child":["",""]}]}]}]},{"name":"The Honor of the Humble Man on Eath of Middle End","type":"directory","id":"1624727374375","child":[]},{"name":"Renault","type":"directory","id":"1624723529405","child":[]},{"name":"Mercedes","type":"directory","id":"1624723536650","child":[]},{"name":"jhkhjkhj","type":"directory","id":"1624727585333","child":[]},{"name":"Subaru","type":"directory","id":"1624723979203","child":[]}]' ],
+    notes: [ [Object], [Object], [Object], [Object] ],
+    date: '2021-06-13',
+    _id: 60d4b422ac28c281c96da4c3,
+    name: 'Ricardo',
+    email: 'rikadu@outlook.com',
+    password:
+     '$2a$10$M4i/95rItHZUsS7QzOey/.H4YBFo14bfLmGHjtACUEc368GB0h1UG',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"Photosynthesis","type":"directory","id":"1626301088687","child":[{"name":"A","type":"directory","id":"1626301132762","child":[]},{"name":"B","type":"directory","id":"1626301148050","child":[]},{"name":"C","type":"directory","id":"1626301158673","child":[]}]},{"name":"Folder 2","type":"directory","id":"1626301104954","child":[]},{"name":"Folder 3","type":"directory","id":"1626301116185","child":[]}]' ],
+    notes: [ [Object] ],
+    date: '2021-07-13',
+    _id: 60ee16aa1528b7a4aa188048,
+    name: 'Luis Mergulhão',
+    email: '30003522@students.ual.pt',
+    password:
+     '$2a$10$CyB8dMcGG4oYoWEnUep34Oojdn5xyp3Ac47/dPL418neUkdSYielm',
+    __v: 0 } ]
+profile : admin
+profile : user
+profile : user
+profile : admin
+profile : admin
+[ { profile: 'admin',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6dc33b7901aa4f525e3e,
+    name: 'Sandra',
+    email: 'spatricia.lourenco@gmail.com',
+    password:
+     '$2a$10$wtM0AnYBsMsDsqsJ4xpXoeiBJHrntLudWOHBsUF6OM7F7R.jNn8P2',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6e953b7901aa4f525e3f,
+    name: 'Sandra Lourenço',
+    email: '30002835@students.ual.pt',
+    password:
+     '$2a$10$hX0yCCU3shYZHVb3ioCEDuCeHamBhovBF8U.DdlfwniuifTt/mA36',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"dfgdfg","type":"directory","id":"1624727580054","child":[{"name":"kl.gfhlfkjdgh;l","type":"directory","id":"1624727621618","child":[]}]},{"name":"Non The Less","type":"directory","id":"1624744603819","child":[{"name":"flkgdjhdskljfh","type":"directory","id":"1624727614307","child":[]},{"name":"oioioiiooioi","type":"directory","id":"1624727645761","child":[{"name":"oiuoiuouoi","type":"directory","id":"1624727635014","child":[]},{"name":"Opel","type":"directory","id":"1624723749212","child":["",{"name":"wqeqwe","type":"directory","id":"1624727596877","child":["",""]}]}]}]},{"name":"The Honor of the Humble Man on Eath of Middle End","type":"directory","id":"1624727374375","child":[]},{"name":"Renault","type":"directory","id":"1624723529405","child":[]},{"name":"Mercedes","type":"directory","id":"1624723536650","child":[]},{"name":"jhkhjkhj","type":"directory","id":"1624727585333","child":[]},{"name":"Subaru","type":"directory","id":"1624723979203","child":[]}]' ],
+    notes: [ [Object], [Object], [Object], [Object] ],
+    date: '2021-06-13',
+    _id: 60d4b422ac28c281c96da4c3,
+    name: 'Ricardo',
+    email: 'rikadu@outlook.com',
+    password:
+     '$2a$10$M4i/95rItHZUsS7QzOey/.H4YBFo14bfLmGHjtACUEc368GB0h1UG',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"Photosynthesis","type":"directory","id":"1626301088687","child":[{"name":"A","type":"directory","id":"1626301132762","child":[]},{"name":"B","type":"directory","id":"1626301148050","child":[]},{"name":"C","type":"directory","id":"1626301158673","child":[]}]},{"name":"Folder 2","type":"directory","id":"1626301104954","child":[]},{"name":"Folder 3","type":"directory","id":"1626301116185","child":[]}]' ],
+    notes: [ [Object] ],
+    date: '2021-07-13',
+    _id: 60ee16aa1528b7a4aa188048,
+    name: 'Luis Mergulhão',
+    email: '30003522@students.ual.pt',
+    password:
+     '$2a$10$CyB8dMcGG4oYoWEnUep34Oojdn5xyp3Ac47/dPL418neUkdSYielm',
+    __v: 0 } ]
+profile : admin
+profile : admin
+[ { profile: 'admin',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6dc33b7901aa4f525e3e,
+    name: 'Sandra',
+    email: 'spatricia.lourenco@gmail.com',
+    password:
+     '$2a$10$wtM0AnYBsMsDsqsJ4xpXoeiBJHrntLudWOHBsUF6OM7F7R.jNn8P2',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6e953b7901aa4f525e3f,
+    name: 'Sandra Lourenço',
+    email: '30002835@students.ual.pt',
+    password:
+     '$2a$10$hX0yCCU3shYZHVb3ioCEDuCeHamBhovBF8U.DdlfwniuifTt/mA36',
+    __v: 0 },
+  { profile: 'admin',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"dfgdfg","type":"directory","id":"1624727580054","child":[{"name":"kl.gfhlfkjdgh;l","type":"directory","id":"1624727621618","child":[]}]},{"name":"Non The Less","type":"directory","id":"1624744603819","child":[{"name":"flkgdjhdskljfh","type":"directory","id":"1624727614307","child":[]},{"name":"oioioiiooioi","type":"directory","id":"1624727645761","child":[{"name":"oiuoiuouoi","type":"directory","id":"1624727635014","child":[]},{"name":"Opel","type":"directory","id":"1624723749212","child":["",{"name":"wqeqwe","type":"directory","id":"1624727596877","child":["",""]}]}]}]},{"name":"The Honor of the Humble Man on Eath of Middle End","type":"directory","id":"1624727374375","child":[]},{"name":"Renault","type":"directory","id":"1624723529405","child":[]},{"name":"Mercedes","type":"directory","id":"1624723536650","child":[]},{"name":"jhkhjkhj","type":"directory","id":"1624727585333","child":[]},{"name":"Subaru","type":"directory","id":"1624723979203","child":[]}]' ],
+    notes: [ [Object], [Object], [Object], [Object] ],
+    date: '2021-06-13',
+    _id: 60d4b422ac28c281c96da4c3,
+    name: 'Ricardo',
+    email: 'rikadu@outlook.com',
+    password:
+     '$2a$10$M4i/95rItHZUsS7QzOey/.H4YBFo14bfLmGHjtACUEc368GB0h1UG',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"Photosynthesis","type":"directory","id":"1626301088687","child":[{"name":"A","type":"directory","id":"1626301132762","child":[]},{"name":"B","type":"directory","id":"1626301148050","child":[]},{"name":"C","type":"directory","id":"1626301158673","child":[]}]},{"name":"Folder 2","type":"directory","id":"1626301104954","child":[]},{"name":"Folder 3","type":"directory","id":"1626301116185","child":[]}]' ],
+    notes: [ [Object] ],
+    date: '2021-07-13',
+    _id: 60ee16aa1528b7a4aa188048,
+    name: 'Luis Mergulhão',
+    email: '30003522@students.ual.pt',
+    password:
+     '$2a$10$CyB8dMcGG4oYoWEnUep34Oojdn5xyp3Ac47/dPL418neUkdSYielm',
+    __v: 0 } ]
+::ffff:192.168.0.1
+profile : admin
+profile : admin
+[ { profile: 'admin',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6dc33b7901aa4f525e3e,
+    name: 'Sandra',
+    email: 'spatricia.lourenco@gmail.com',
+    password:
+     '$2a$10$wtM0AnYBsMsDsqsJ4xpXoeiBJHrntLudWOHBsUF6OM7F7R.jNn8P2',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6e953b7901aa4f525e3f,
+    name: 'Sandra Lourenço',
+    email: '30002835@students.ual.pt',
+    password:
+     '$2a$10$hX0yCCU3shYZHVb3ioCEDuCeHamBhovBF8U.DdlfwniuifTt/mA36',
+    __v: 0 },
+  { profile: 'admin',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"dfgdfg","type":"directory","id":"1624727580054","child":[{"name":"kl.gfhlfkjdgh;l","type":"directory","id":"1624727621618","child":[]}]},{"name":"Non The Less","type":"directory","id":"1624744603819","child":[{"name":"flkgdjhdskljfh","type":"directory","id":"1624727614307","child":[]},{"name":"oioioiiooioi","type":"directory","id":"1624727645761","child":[{"name":"oiuoiuouoi","type":"directory","id":"1624727635014","child":[]},{"name":"Opel","type":"directory","id":"1624723749212","child":["",{"name":"wqeqwe","type":"directory","id":"1624727596877","child":["",""]}]}]}]},{"name":"The Honor of the Humble Man on Eath of Middle End","type":"directory","id":"1624727374375","child":[]},{"name":"Renault","type":"directory","id":"1624723529405","child":[]},{"name":"Mercedes","type":"directory","id":"1624723536650","child":[]},{"name":"jhkhjkhj","type":"directory","id":"1624727585333","child":[]},{"name":"Subaru","type":"directory","id":"1624723979203","child":[]}]' ],
+    notes: [ [Object], [Object], [Object], [Object] ],
+    date: '2021-06-13',
+    _id: 60d4b422ac28c281c96da4c3,
+    name: 'Ricardo',
+    email: 'rikadu@outlook.com',
+    password:
+     '$2a$10$M4i/95rItHZUsS7QzOey/.H4YBFo14bfLmGHjtACUEc368GB0h1UG',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"Photosynthesis","type":"directory","id":"1626301088687","child":[{"name":"A","type":"directory","id":"1626301132762","child":[]},{"name":"B","type":"directory","id":"1626301148050","child":[]},{"name":"C","type":"directory","id":"1626301158673","child":[]}]},{"name":"Folder 2","type":"directory","id":"1626301104954","child":[]},{"name":"Folder 3","type":"directory","id":"1626301116185","child":[]}]' ],
+    notes: [ [Object] ],
+    date: '2021-07-13',
+    _id: 60ee16aa1528b7a4aa188048,
+    name: 'Luis Mergulhão',
+    email: '30003522@students.ual.pt',
+    password:
+     '$2a$10$CyB8dMcGG4oYoWEnUep34Oojdn5xyp3Ac47/dPL418neUkdSYielm',
+    __v: 0 } ]
+profile : admin
+profile : admin
+[ { profile: 'admin',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6dc33b7901aa4f525e3e,
+    name: 'Sandra',
+    email: 'spatricia.lourenco@gmail.com',
+    password:
+     '$2a$10$wtM0AnYBsMsDsqsJ4xpXoeiBJHrntLudWOHBsUF6OM7F7R.jNn8P2',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6e953b7901aa4f525e3f,
+    name: 'Sandra Lourenço',
+    email: '30002835@students.ual.pt',
+    password:
+     '$2a$10$hX0yCCU3shYZHVb3ioCEDuCeHamBhovBF8U.DdlfwniuifTt/mA36',
+    __v: 0 },
+  { profile: 'admin',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"dfgdfg","type":"directory","id":"1624727580054","child":[{"name":"kl.gfhlfkjdgh;l","type":"directory","id":"1624727621618","child":[]}]},{"name":"Non The Less","type":"directory","id":"1624744603819","child":[{"name":"flkgdjhdskljfh","type":"directory","id":"1624727614307","child":[]},{"name":"oioioiiooioi","type":"directory","id":"1624727645761","child":[{"name":"oiuoiuouoi","type":"directory","id":"1624727635014","child":[]},{"name":"Opel","type":"directory","id":"1624723749212","child":["",{"name":"wqeqwe","type":"directory","id":"1624727596877","child":["",""]}]}]}]},{"name":"The Honor of the Humble Man on Eath of Middle End","type":"directory","id":"1624727374375","child":[]},{"name":"Renault","type":"directory","id":"1624723529405","child":[]},{"name":"Mercedes","type":"directory","id":"1624723536650","child":[]},{"name":"jhkhjkhj","type":"directory","id":"1624727585333","child":[]},{"name":"Subaru","type":"directory","id":"1624723979203","child":[]}]' ],
+    notes: [ [Object], [Object], [Object], [Object] ],
+    date: '2021-06-13',
+    _id: 60d4b422ac28c281c96da4c3,
+    name: 'Ricardo',
+    email: 'rikadu@outlook.com',
+    password:
+     '$2a$10$M4i/95rItHZUsS7QzOey/.H4YBFo14bfLmGHjtACUEc368GB0h1UG',
+    __v: 0 },
+  { profile: 'admin',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"Photosynthesis","type":"directory","id":"1626301088687","child":[{"name":"A","type":"directory","id":"1626301132762","child":[]},{"name":"B","type":"directory","id":"1626301148050","child":[]},{"name":"C","type":"directory","id":"1626301158673","child":[]}]},{"name":"Folder 2","type":"directory","id":"1626301104954","child":[]},{"name":"Folder 3","type":"directory","id":"1626301116185","child":[]}]' ],
+    notes: [ [Object] ],
+    date: '2021-07-13',
+    _id: 60ee16aa1528b7a4aa188048,
+    name: 'Luis Mergulhão',
+    email: '30003522@students.ual.pt',
+    password:
+     '$2a$10$CyB8dMcGG4oYoWEnUep34Oojdn5xyp3Ac47/dPL418neUkdSYielm',
+    __v: 0 } ]
+profile : admin
+profile : admin
+[ { profile: 'admin',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6dc33b7901aa4f525e3e,
+    name: 'Sandra',
+    email: 'spatricia.lourenco@gmail.com',
+    password:
+     '$2a$10$wtM0AnYBsMsDsqsJ4xpXoeiBJHrntLudWOHBsUF6OM7F7R.jNn8P2',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6e953b7901aa4f525e3f,
+    name: 'Sandra Lourenço',
+    email: '30002835@students.ual.pt',
+    password:
+     '$2a$10$hX0yCCU3shYZHVb3ioCEDuCeHamBhovBF8U.DdlfwniuifTt/mA36',
+    __v: 0 },
+  { profile: 'admin',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"dfgdfg","type":"directory","id":"1624727580054","child":[{"name":"kl.gfhlfkjdgh;l","type":"directory","id":"1624727621618","child":[]}]},{"name":"Non The Less","type":"directory","id":"1624744603819","child":[{"name":"flkgdjhdskljfh","type":"directory","id":"1624727614307","child":[]},{"name":"oioioiiooioi","type":"directory","id":"1624727645761","child":[{"name":"oiuoiuouoi","type":"directory","id":"1624727635014","child":[]},{"name":"Opel","type":"directory","id":"1624723749212","child":["",{"name":"wqeqwe","type":"directory","id":"1624727596877","child":["",""]}]}]}]},{"name":"The Honor of the Humble Man on Eath of Middle End","type":"directory","id":"1624727374375","child":[]},{"name":"Renault","type":"directory","id":"1624723529405","child":[]},{"name":"Mercedes","type":"directory","id":"1624723536650","child":[]},{"name":"jhkhjkhj","type":"directory","id":"1624727585333","child":[]},{"name":"Subaru","type":"directory","id":"1624723979203","child":[]}]' ],
+    notes: [ [Object], [Object], [Object], [Object] ],
+    date: '2021-06-13',
+    _id: 60d4b422ac28c281c96da4c3,
+    name: 'Ricardo',
+    email: 'rikadu@outlook.com',
+    password:
+     '$2a$10$M4i/95rItHZUsS7QzOey/.H4YBFo14bfLmGHjtACUEc368GB0h1UG',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"Photosynthesis","type":"directory","id":"1626301088687","child":[{"name":"A","type":"directory","id":"1626301132762","child":[]},{"name":"B","type":"directory","id":"1626301148050","child":[]},{"name":"C","type":"directory","id":"1626301158673","child":[]}]},{"name":"Folder 2","type":"directory","id":"1626301104954","child":[]},{"name":"Folder 3","type":"directory","id":"1626301116185","child":[]}]' ],
+    notes: [ [Object] ],
+    date: '2021-07-13',
+    _id: 60ee16aa1528b7a4aa188048,
+    name: 'Luis Mergulhão',
+    email: '30003522@students.ual.pt',
+    password:
+     '$2a$10$CyB8dMcGG4oYoWEnUep34Oojdn5xyp3Ac47/dPL418neUkdSYielm',
+    __v: 0 } ]
+profile : admin
+profile : user
+::ffff:192.168.0.1
+profile : user
+profile : admin
+profile : admin
+[ { profile: 'admin',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6dc33b7901aa4f525e3e,
+    name: 'Sandra',
+    email: 'spatricia.lourenco@gmail.com',
+    password:
+     '$2a$10$wtM0AnYBsMsDsqsJ4xpXoeiBJHrntLudWOHBsUF6OM7F7R.jNn8P2',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6e953b7901aa4f525e3f,
+    name: 'Sandra Lourenço',
+    email: '30002835@students.ual.pt',
+    password:
+     '$2a$10$hX0yCCU3shYZHVb3ioCEDuCeHamBhovBF8U.DdlfwniuifTt/mA36',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"dfgdfg","type":"directory","id":"1624727580054","child":[{"name":"kl.gfhlfkjdgh;l","type":"directory","id":"1624727621618","child":[]}]},{"name":"Non The Less","type":"directory","id":"1624744603819","child":[{"name":"flkgdjhdskljfh","type":"directory","id":"1624727614307","child":[]},{"name":"oioioiiooioi","type":"directory","id":"1624727645761","child":[{"name":"oiuoiuouoi","type":"directory","id":"1624727635014","child":[]},{"name":"Opel","type":"directory","id":"1624723749212","child":["",{"name":"wqeqwe","type":"directory","id":"1624727596877","child":["",""]}]}]}]},{"name":"The Honor of the Humble Man on Eath of Middle End","type":"directory","id":"1624727374375","child":[]},{"name":"Renault","type":"directory","id":"1624723529405","child":[]},{"name":"Mercedes","type":"directory","id":"1624723536650","child":[]},{"name":"jhkhjkhj","type":"directory","id":"1624727585333","child":[]},{"name":"Subaru","type":"directory","id":"1624723979203","child":[]}]' ],
+    notes: [ [Object], [Object], [Object], [Object] ],
+    date: '2021-06-13',
+    _id: 60d4b422ac28c281c96da4c3,
+    name: 'Ricardo',
+    email: 'rikadu@outlook.com',
+    password:
+     '$2a$10$M4i/95rItHZUsS7QzOey/.H4YBFo14bfLmGHjtACUEc368GB0h1UG',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"Photosynthesis","type":"directory","id":"1626301088687","child":[{"name":"A","type":"directory","id":"1626301132762","child":[]},{"name":"B","type":"directory","id":"1626301148050","child":[]},{"name":"C","type":"directory","id":"1626301158673","child":[]}]},{"name":"Folder 2","type":"directory","id":"1626301104954","child":[]},{"name":"Folder 3","type":"directory","id":"1626301116185","child":[]}]' ],
+    notes: [ [Object] ],
+    date: '2021-07-13',
+    _id: 60ee16aa1528b7a4aa188048,
+    name: 'Luis Mergulhão',
+    email: '30003522@students.ual.pt',
+    password:
+     '$2a$10$CyB8dMcGG4oYoWEnUep34Oojdn5xyp3Ac47/dPL418neUkdSYielm',
+    __v: 0 } ]
+profile : admin
+profile : admin
+[ { profile: 'admin',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6dc33b7901aa4f525e3e,
+    name: 'Sandra',
+    email: 'spatricia.lourenco@gmail.com',
+    password:
+     '$2a$10$wtM0AnYBsMsDsqsJ4xpXoeiBJHrntLudWOHBsUF6OM7F7R.jNn8P2',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6e953b7901aa4f525e3f,
+    name: 'Sandra Lourenço',
+    email: '30002835@students.ual.pt',
+    password:
+     '$2a$10$hX0yCCU3shYZHVb3ioCEDuCeHamBhovBF8U.DdlfwniuifTt/mA36',
+    __v: 0 },
+  { profile: 'admin',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"dfgdfg","type":"directory","id":"1624727580054","child":[{"name":"kl.gfhlfkjdgh;l","type":"directory","id":"1624727621618","child":[]}]},{"name":"Non The Less","type":"directory","id":"1624744603819","child":[{"name":"flkgdjhdskljfh","type":"directory","id":"1624727614307","child":[]},{"name":"oioioiiooioi","type":"directory","id":"1624727645761","child":[{"name":"oiuoiuouoi","type":"directory","id":"1624727635014","child":[]},{"name":"Opel","type":"directory","id":"1624723749212","child":["",{"name":"wqeqwe","type":"directory","id":"1624727596877","child":["",""]}]}]}]},{"name":"The Honor of the Humble Man on Eath of Middle End","type":"directory","id":"1624727374375","child":[]},{"name":"Renault","type":"directory","id":"1624723529405","child":[]},{"name":"Mercedes","type":"directory","id":"1624723536650","child":[]},{"name":"jhkhjkhj","type":"directory","id":"1624727585333","child":[]},{"name":"Subaru","type":"directory","id":"1624723979203","child":[]}]' ],
+    notes: [ [Object], [Object], [Object], [Object] ],
+    date: '2021-06-13',
+    _id: 60d4b422ac28c281c96da4c3,
+    name: 'Ricardo',
+    email: 'rikadu@outlook.com',
+    password:
+     '$2a$10$M4i/95rItHZUsS7QzOey/.H4YBFo14bfLmGHjtACUEc368GB0h1UG',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"Photosynthesis","type":"directory","id":"1626301088687","child":[{"name":"A","type":"directory","id":"1626301132762","child":[]},{"name":"B","type":"directory","id":"1626301148050","child":[]},{"name":"C","type":"directory","id":"1626301158673","child":[]}]},{"name":"Folder 2","type":"directory","id":"1626301104954","child":[]},{"name":"Folder 3","type":"directory","id":"1626301116185","child":[]}]' ],
+    notes: [ [Object] ],
+    date: '2021-07-13',
+    _id: 60ee16aa1528b7a4aa188048,
+    name: 'Luis Mergulhão',
+    email: '30003522@students.ual.pt',
+    password:
+     '$2a$10$CyB8dMcGG4oYoWEnUep34Oojdn5xyp3Ac47/dPL418neUkdSYielm',
+    __v: 0 } ]
+::ffff:192.168.0.1
+profile : admin
+profile : admin
+[ { profile: 'admin',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6dc33b7901aa4f525e3e,
+    name: 'Sandra',
+    email: 'spatricia.lourenco@gmail.com',
+    password:
+     '$2a$10$wtM0AnYBsMsDsqsJ4xpXoeiBJHrntLudWOHBsUF6OM7F7R.jNn8P2',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites: [],
+    notes: [],
+    date: '2021-07-15',
+    _id: 60ca6e953b7901aa4f525e3f,
+    name: 'Sandra Lourenço',
+    email: '30002835@students.ual.pt',
+    password:
+     '$2a$10$hX0yCCU3shYZHVb3ioCEDuCeHamBhovBF8U.DdlfwniuifTt/mA36',
+    __v: 0 },
+  { profile: 'admin',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"dfgdfg","type":"directory","id":"1624727580054","child":[{"name":"kl.gfhlfkjdgh;l","type":"directory","id":"1624727621618","child":[]}]},{"name":"Non The Less","type":"directory","id":"1624744603819","child":[{"name":"flkgdjhdskljfh","type":"directory","id":"1624727614307","child":[]},{"name":"oioioiiooioi","type":"directory","id":"1624727645761","child":[{"name":"oiuoiuouoi","type":"directory","id":"1624727635014","child":[]},{"name":"Opel","type":"directory","id":"1624723749212","child":["",{"name":"wqeqwe","type":"directory","id":"1624727596877","child":["",""]}]}]}]},{"name":"The Honor of the Humble Man on Eath of Middle End","type":"directory","id":"1624727374375","child":[]},{"name":"Renault","type":"directory","id":"1624723529405","child":[]},{"name":"Mercedes","type":"directory","id":"1624723536650","child":[]},{"name":"jhkhjkhj","type":"directory","id":"1624727585333","child":[]},{"name":"Subaru","type":"directory","id":"1624723979203","child":[]}]' ],
+    notes: [ [Object], [Object], [Object], [Object] ],
+    date: '2021-06-13',
+    _id: 60d4b422ac28c281c96da4c3,
+    name: 'Ricardo',
+    email: 'rikadu@outlook.com',
+    password:
+     '$2a$10$M4i/95rItHZUsS7QzOey/.H4YBFo14bfLmGHjtACUEc368GB0h1UG',
+    __v: 0 },
+  { profile: 'user',
+    replacePass: 'false',
+    favorites:
+     [ '[{"name":"Photosynthesis","type":"directory","id":"1626301088687","child":[{"name":"A","type":"directory","id":"1626301132762","child":[]},{"name":"B","type":"directory","id":"1626301148050","child":[]},{"name":"C","type":"directory","id":"1626301158673","child":[]}]},{"name":"Folder 2","type":"directory","id":"1626301104954","child":[]},{"name":"Folder 3","type":"directory","id":"1626301116185","child":[]}]' ],
+    notes: [ [Object] ],
+    date: '2021-07-13',
+    _id: 60ee16aa1528b7a4aa188048,
+    name: 'Luis Mergulhão',
+    email: '30003522@students.ual.pt',
+    password:
+     '$2a$10$CyB8dMcGG4oYoWEnUep34Oojdn5xyp3Ac47/dPL418neUkdSYielm',
+    __v: 0 } ]
+profile : admin
+[ { _id: 60ef64f64724ccdbec66670e,
+    faq_id: 1,
+    question: 'Why tugaRxiv?',
+    answer:
+     'Because users that need preprint also need an easy way to organize they\'re favorite preprints. tugaRxiv provides that: organization, easy access and similar results for further learning and investigation.',
+    __v: 0 },
+  { _id: 60ef654680b261dc82ba221d,
+    faq_id: 2,
+    question: 'I want to have my own area in tugaRxiv. How do I do it?',
+    answer:
+     'You just have to register. Go to login page and create an account. Provide an email and your name and we will send you a password for accessing it.',
+    __v: 0 },
+  { _id: 60ef65bef68d11dd69f770c7,
+    faq_id: 3,
+    question: 'But can I change the password later?',
+    answer:
+     'Yes, you can. You can change your password anytime you want. Logged in you just have to go to user button (on the top right side) and choose Options. Then select "Reset Password" and just follow the steps.',
+    __v: 0 },
+  { _id: 60ef668c2e5103de349ff870,
+    faq_id: 4,
+    question: 'I no longer need tugaRxiv account. Can I delete it?',
+    answer:
+     'Yes. You can do it by going to to user button (on the top right side) and choose Options. Then select "Delete Account". Just provide your password and follow the remaining steps and that’s it. Please remember that, after deletion, we can no longer retrieve it. It\'s a "one way street". But you be welcome to join us anytime you want :)',
+    __v: 0 } ]

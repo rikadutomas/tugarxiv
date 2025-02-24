@@ -1,0 +1,405 @@
+[
+  '0',
+  '00',
+  '000',
+  '00001',
+  '00001026',
+  '000015',
+  '00001nnthe',
+  '00001v',
+  '00004',
+  '00005',
+  '00005the',
+  '00008',
+  '0001',
+  '00012',
+  '00013',
+  '00018',
+  '0001l',
+  '0001nnconclusionpas',
+  '0001nnconclusionprevalence',
+  '0001nnconclusionreductions',
+  '0001nnconclusionresults',
+  '0001nnconclusionsdisease',
+  '0001nnconclusionsin',
+  '0001nnconclusionsjoint',
+  '0001nnconclusionsour',
+  '0001nnconclusionsthis',
+  '0002',
+  '00021nnthis',
+  '0003',
+  '00036',
+  '00038p005',
+  '00039',
+  '0004',
+  '0005',
+  '0005nnconclusionsaf',
+  '0005nnconclusionsthe',
+  '0005nninterpretationthese',
+  '0006',
+  '00060121',
+  '00061',
+  '000665generation',
+  '0006ncliolithere',
+  '0007',
+  '00071',
+  '0008',
+  '0008nnon',
+  '00099',
+  '0009x',
+  '000mb',
+  '000nnconclusionsnnwhilst',
+  '001',
+  '00117',
+  '00124',
+  '00129nnauthor',
+  '00138',
+  '0014',
+  '0015',
+  '0016',
+  '0016ma',
+  '0017',
+  '0017nnconclusionsegfr',
+  '0019',
+  '00190',
+  '001indexxhtml',
+  '001mgl',
+  '001nnconclusionsthe',
+  '001nnconclusionsthese',
+  '001nnimpacts',
+  '002',
+  '0020',
+  '0022degrees',
+  '00249generation',
+  '0025',
+  '0025degrees',
+  '0025x',
+  '0026g',
+  '002764',
+  '002nnour',
+  '002sd',
+  '002x',
+  '003',
+  '0031heart',
+  '003212',
+  '0034',
+  '0034ma',
+  '0034nnabbreviations',
+  '0034nnconclusionshiv',
+  '00355',
+  '0037',
+  '00374',
+  '0038',
+  '0038nnconclusionsour',
+  '00392',
+  '003934',
+  '0039nnconclusionsdsj',
+  '003nm',
+  '003nnconclusionh',
+  '003nnconclusionsperinatal',
+  '003nnconclusionswe',
+  '004',
+  ... 156717 more items
+]
+[
+  '000026.1', '000026.2', '000042.1', '000042.2', '000042.3',
+  '000067.1', '000075.1', '000075.2', '000091.1', '000109.1',
+  '000125.1', '000141.1', '000158.1', '000208.1', '000216.1',
+  '000224.1', '000240.1', '000257.1', '000257.2', '000257.3',
+  '000257.4', '000265.1', '000307.1', '000315.1', '000349.1',
+  '000349.2', '000364.1', '000380.1', '000398.1', '000406.1',
+  '000406.2', '000414.1', '000422.1', '000422.2', '000422.3',
+  '000430.1', '000430.2', '000448.1', '000448.2', '000455.1',
+  '000455.2', '000455.3', '000489.1', '000497.1', '000513.1',
+  '000521.1', '000521.2', '000547.1', '000562.1', '000570.1',
+  '000588.1', '000604.1', '000638.1', '000638.2', '000653.1',
+  '000653.2', '000653.3', '000653.4', '000653.5', '000661.1',
+  '000661.2', '000661.3', '000679.1', '000687.1', '000687.2',
+  '000687.3', '000687.4', '000711.1', '000745.1', '000745.2',
+  '000752.1', '000752.2', '000752.3', '000752.4', '000760.1',
+  '000760.2', '000778.1', '000778.2', '000786.1', '000802.1',
+  '000802.2', '000802.3', '000802.4', '000802.5', '000836.1',
+  '000844.1', '000851.1', '000869.1', '000869.2', '000885.1',
+  '000885.2', '000885.3', '000885.4', '000893.1', '000919.1',
+  '000919.2', '000919.3', '000919.4', '000927.1', '000935.1',
+  ... 53860 more items
+]
+Processing Date :2018-12-18=========================================
+
+Processing 2018-12-18 : 2021-07-07 13:47:50 >> Update from Server -> biorxiv
+https://api.biorxiv.org/details/biorxiv/2018-12-18/2018-12-18/0
+Stage 0 totalArticles>>86
+Stage 0 reportArticles>>86
+Stage 0 numArticles>>0
+PROM SaveDB > true
+173005.3
+173005.3
+["neatseq","flow","lightweight","high","throughput","sequencing","workflow","platform","programmers","programmers","alike"]
+173005.3
+["nowadays","necessity","biologists","execute","bioinformatics","workflows","wfs","wf","management","software","packages","require","operation","programming","expertise","describe","neatseq","flow","platform","enables","users","programming","knowledge","design","execute","complex","high","throughput","sequencing","wfs","achieved","compendium","pre","built","modules","generic","module","require","programming","expertise","neatseq","flow","retains","flexibility","generate","sophisticated","wf","modules","templates","basic","python","programming","abilities","neatseq","flow","designed","enable","easy","sharing","wfs","modules","conceptually","separating","modules","wf","design","sample","execution","neatseq","flow","works","hand","hand","conda","environments","easy","installation","wfs","analysis","programs","neatseq","flow","enables","efficient","wf","execution","computer","clusters","parallelizing","samples","wf","steps","neatseq","flow","operates","shell","script","generation","full","transparency","wf","process","neatseq","flow","offers","real","time","wf","execution","monitoring","detailed","documentation","sustaining","wf","backups","reproducibility","features","neatseq","flow","easy","wf","platform","compromising","flexibility","reproducibility","transparency","efficiencynnavailabilityhttpneatseq","flowreadthedocsioenlatestnncontactsklarzbguacil"]
+Done 3
+Index Update: 173005.3 >>> Complete
+201574.3
+201574.3
+["target","immunity","levels","achieving","maintaining","measles","elimination"]
+201574.3
+["backgroundvaccination","reduced","global","incidence","measles","lowest","rates","history","local","interruption","measles","virus","transmission","requires","sustained","high","levels","population","immunity","challenging","achieve","maintain","herd","immunity","threshold","measles","typically","stipulated","95","figure","easily","translate","age","specific","immunity","levels","required","interrupt","transmission","previous","estimates","levels","based","speculative","contact","patterns","based","historical","data","high","income","countries","aim","study","determine","age","specific","immunity","levels","ensure","elimination","measles","account","empirically","observed","contact","patternsnnmethodswe","combined","estimated","immunity","levels","serological","data","countries","studies","age","specific","mixing","patterns","derive","contact","adjusted","immunity","levels","compared","case","data","years","seroprevalence","studies","establish","contact","adjusted","immunity","threshold","elimination","lastly","combined","range","hypothetical","immunity","profiles","contact","data","wide","range","socioeconomic","demographic","settings","determine","sufficient","eliminationnnresultswe","contact","adjusted","immunity","levels","predict","countries","experience","outbreaks","decade","serological","studies","countries","threshold","level","contact","adjusted","immunity","average","basic","reproduction","number","testing","scenarios","immunity","threshold","level","contact","studies","immunity","achieved","age","maintained","older","age","groups","guarantee","elimination","reflects","greater","level","immunity","required","9","year","olds","established","previouslynnconclusionsthe","immunity","levels","measles","elimination","higher","previous","guidance","achieving","high","immunity","levels","9","year","olds","presents","challenge","opportunity","high","levels","difficult","achieve","school","entry","opportunity","ensure","sufficient","vaccination","coverage","combined","observations","contact","patterns","national","national","serological","studies","serve","highlight","key","gaps","immunity","filled","order","achieve","national","regional","measles","elimination"]
+Done 3
+Index Update: 201574.3 >>> Complete
+201574.4
+201574.4
+["target","immunity","levels","achieving","maintaining","measles","elimination"]
+201574.4
+["backgroundvaccination","reduced","global","incidence","measles","lowest","rates","history","local","interruption","measles","virus","transmission","requires","sustained","high","levels","population","immunity","challenging","achieve","maintain","herd","immunity","threshold","measles","typically","stipulated","95","figure","easily","translate","age","specific","immunity","levels","required","interrupt","transmission","previous","estimates","levels","based","speculative","contact","patterns","based","historical","data","high","income","countries","aim","study","determine","age","specific","immunity","levels","ensure","elimination","measles","account","empirically","observed","contact","patternsnnmethodswe","combined","estimated","immunity","levels","serological","data","countries","studies","age","specific","mixing","patterns","derive","contact","adjusted","immunity","levels","compared","case","data","years","seroprevalence","studies","establish","contact","adjusted","immunity","threshold","elimination","lastly","combined","range","hypothetical","immunity","profiles","contact","data","wide","range","socioeconomic","demographic","settings","determine","sufficient","eliminationnnresultswe","contact","adjusted","immunity","levels","predict","countries","experience","outbreaks","decade","serological","studies","countries","threshold","level","contact","adjusted","immunity","average","basic","reproduction","number","testing","scenarios","immunity","threshold","level","contact","studies","immunity","achieved","age","maintained","older","age","groups","guarantee","elimination","reflects","greater","level","immunity","required","9","year","olds","established","previouslynnconclusionsthe","immunity","levels","measles","elimination","higher","previous","guidance","achieving","high","immunity","levels","9","year","olds","presents","challenge","opportunity","high","levels","difficult","achieve","school","entry","opportunity","ensure","sufficient","vaccination","coverage","combined","observations","contact","patterns","national","national","serological","studies","serve","highlight","key","gaps","immunity","filled","order","achieve","national","regional","measles","elimination"]
+Done 3
+Index Update: 201574.4 >>> Complete
+241075.3
+241075.3
+["pervasive","diverse","collateral","sensitivity","profiles","inform","optimal","strategies","limit","antibiotic","resistance"]
+241075.3
+["evolved","resistance","antibiotic","collateral","sensitivity","drugs","provide","extensive","quantitative","characterization","collateral","effects","enterococcus","faecalis","gram","positive","opportunistic","pathogen","combining","parallel","experimental","evolution","high","throughput","dose","response","measurements","measure","phenotypic","profiles","collateral","sensitivity","resistance","total","mutant","drug","combinations","find","collateral","effects","pervasive","difficult","predict","independent","populations","selected","drug","exhibit","qualitatively","profiles","collateral","sensitivity","markedly","fitness","costs","genome","sequencing","evolved","populations","identified","mutations","number","resistance","determinants","including","mutations","genes","linked","collateral","sensitivity","species","phenotypic","drug","sensitivity","profiles","diversity","cluster","statistically","groups","characterized","selecting","drugs","mechanisms","exploit","statistical","structure","resistance","profiles","develop","simple","mathematical","model","based","stochastic","control","process","design","optimal","drug","policies","assign","unique","drug","resistance","profile","stochastic","simulations","reveal","optimal","drug","policies","outperform","intuitive","cycling","protocols","maintaining","long","term","sensitivity","expense","short","term","periods","high","resistance","approach","reveals","conceptual","strategy","mitigating","resistance","balancing","short","term","inhibition","pathogen","growth","infrequent","drugs","intended","steer","pathogen","populations","vulnerable","future","state","experiments","laboratory","populations","confirm","model","inspired","sequences","drugs","reduce","growth","slow","adaptation","relative","naive","protocols","involving","drugs","pairwise","cycles","drug","uniform","cycles"]
+Done 3
+Index Update: 241075.3 >>> Complete
+247437.3
+247437.3
+["physical","principles","retroviral","integration","human","genome"]
+247437.3
+["retroviruses","including","hiv","insert","dna","random","fraction","host","genome","understood","selection","mechanisms","develop","biophysical","model","retroviral","integrations","stochastic","quasi","equilibrium","topological","reconnections","polymers","discover","physical","effects","dna","accessibility","elasticity","play","universal","roles","process","simulations","predict","integration","favoured","nucleosomal","flexible","dna","experiments","biases","competing","energy","barriers","dna","deformations","long","chromosomal","region","human","cells","interphase","discover","larger","scales","integration","sites","determined","chromatin","accessibility","finally","propose","solve","reaction","diffusion","problem","recapitulates","distribution","hiv","hot","spots","cells","generic","assumptions","model","rationalise","experimental","observations","identifies","unappreciated","physical","contributions","retroviral","integration","site","selection"]
+Done 3
+Index Update: 247437.3 >>> Complete
+312587.4
+312587.4
+["excitable","dynamics","nrem","sleep","unifying","model","neocortex","hippocampus"]
+312587.4
+["rapid","eye","movement","nrem","sleep","neocortex","hippocampus","alternate","periods","neuronal","spiking","inactivity","directly","comparing","experimental","observations","field","model","adapting","recurrent","neuronal","population","find","neocortical","alternations","reflect","dynamical","regime","stable","active","state","interrupted","transient","inactive","states","slow","waves","hippocampal","alternations","reflect","stable","inactive","state","interrupted","transient","active","states","sharp","waves","propose","nrem","sleep","hippocampal","neocortical","populations","excitable","stable","state","internal","fluctuations","external","perturbation","evoke","stereotyped","population","events","mediate","nrem","functions"]
+Done 3
+Index Update: 312587.4 >>> Complete
+320507.2
+320507.2
+["chronic","vivo","optogenetic","stimulation","modulates","neuronal","excitability","spine","morphology","hebbian","plasticity","mouse","hippocampus"]
+320507.2
+["prolonged","increases","excitation","trigger","cell","wide","homeostatic","responses","neurons","altering","membrane","channels","promoting","morphological","ultimately","reducing","synaptic","weights","synaptic","downscaling","interacts","classical","forms","hebbian","plasticity","unclear","study","investigated","chronic","optogenetic","stimulation","hippocampus","ca1","pyramidal","neurons","freely","moving","mice","morphological","reminiscent","homeostatic","scaling","modulate","synaptic","currents","compensate","chronic","excitation","lead","alterations","hebbian","plasticity","stimulation","ms","blue","light","pulses","dendritic","spine","density","area","reduced","ca1","region","mice","expressing","channelrhodopsin","chr2","compared","controls","protocol","reduced","amplitude","mepscs","ampa","nmda","components","vivo","slices","chr2","expressing","mice","stimulation","lastly","chronic","stimulation","impaired","induction","ltp","facilitated","slices","neuronal","responses","prolonged","network","excitation","modulate","subsequent","hebbian","plasticity","hippocampus"]
+Done 3
+Index Update: 320507.2 >>> Complete
+331801.3
+331801.3
+["quenching","active","swarm","light","exposure","collective","motility","swarming","serratia","marcescens","colonies"]
+331801.3
+["swarming","colonies","light","responsive","bacteria","serratia","marcescens","grown","agar","exhibit","robust","fluctuating","large","scale","collective","flows","include","arrayed","vortices","jets","sinuous","streamers","study","immobilization","quenching","large","scale","flows","moving","swarm","exposed","light","substantial","ultra","violet","component","map","response","light","terms","independent","parameters","light","intensity","duration","exposure","identify","conditions","mobility","small","exposure","times","andor","low","intensities","find","collective","mobility","negligibly","increasing","exposure","times","andor","intensity","higher","values","temporarily","suppresses","collective","mobility","terminating","exposure","bacteria","regain","motility","eventually","reestablish","large","scale","flows","long","exposure","times","high","intensities","exposed","bacteria","paralyzed","macroscopic","speeds","eventually","reducing","process","form","highly","aligned","jammed","domains","individual","domains","eventually","coalesce","large","macroscopic","domain","radial","extent","growing","square","root","exposure","time","post","exposure","active","bacteria","dislodge","exposed","bacteria","jammed","configurations","initial","dissolution","rates","dependent","duration","exposure","suggesting","caging","effects","substantial","higher","exposure","times","based","experimental","observations","propose","minimal","brownian","dynamics","model","examine","escape","exposed","bacteria","region","exposure","complement","studies","planktonic","bacteria","inform","models","pattern","formation","gradated","illumination"]
+Done 3
+Index Update: 331801.3 >>> Complete
+366393.2
+366393.2
+["reference","repulsion","perceptual","illusion"]
+366393.2
+["perceptual","decisions","influenced","contextual","factors","instance","engaged","visual","discrimination","task","reference","boundary","subjective","reports","judged","stimulus","feature","biased","boundary","phenomenon","termed","reference","repulsion","phenomenon","thought","reflect","perceptual","illusion","appearance","stimulus","evidence","suggests","reflect","post","perceptual","decision","bias","light","issue","examined","orientation","judgments","affect","perceptual","appearance","experiment","confirmed","judging","grating","stimulus","discrimination","boundary","subsequent","reproduction","response","repelled","boundary","investigate","perceptual","nature","bias","experiment","measured","perceived","orientation","grating","stimulus","directly","comparison","reference","stimulus","visible","time","observe","small","repulsive","bias","boundary","bias","explained","random","trial","trial","fluctuations","sensory","representations","classical","stimulus","adaptation","effects","reflect","systematic","bias","discrimination","judgment","current","study","discrimination","judgments","elicit","perceptual","illusion","points","post","perceptual","locus","reference","repulsion"]
+Done 3
+Index Update: 366393.2 >>> Complete
+370403.2
+370403.2
+["virulence","phenotype","rapidly","assesses","candida","fungal","pathogenesis","healthy","immunocompromised","caenorhabditis","elegans","hosts"]
+370403.2
+["yeast","candida","albicans","opportunistic","pathogen","humans","meaning","commensal","interactions","host","transition","harmful","pathogen","albicans","predominant","species","isolated","human","mycobiome","implicated","fungal","infection","infections","albicans","candida","species","rapidly","rising","studying","factors","contribute","virulence","challenging","frequently","depends","contexts","including","host","immune","status","pathogen","genetic","background","utilize","nematode","caenorhabditis","elegans","perspicuous","efficient","model","host","system","study","fungal","infections","candida","pathogens","find","addition","reducing","lifetime","host","survival","exposure","albicans","delayed","reproduction","reduced","lineage","growth","multiple","generations","assessed","fungal","pathogen","virulence","elegans","hosts","compromised","innate","immune","function","detected","increased","early","mortality","reduced","brood","sizes","delayed","reproduction","relative","infected","healthy","hosts","importantly","assessing","virulence","healthy","immunocompromised","host","backgrounds","reveal","pathogen","potential","albicans","candida","species","lineage","growth","assay","measure","reduction","host","fitness","fungal","infection","demonstrate","interactions","pathogen","host","immune","function","contribute","virulence"]
+Done 3
+Index Update: 370403.2 >>> Complete
+375097.3
+375097.3
+["pathwaymatcher","proteoform","centric","network","construction","enables","fine","granularity","multi","omics","pathway","mapping"]
+375097.3
+["backgroundmapping","biomedical","data","functional","knowledge","essential","task","bioinformatics","achieved","querying","identifiers","gene","sets","pathway","knowledgebases","isoform","post","translational","modification","states","proteins","lost","converting","input","pathways","gene","centric","listsnnfindingsbased","reactome","knowledgebase","built","network","protein","protein","interactions","accounting","documented","isoform","modification","statuses","proteins","implemented","command","application","called","pathwaymatcher","githubcompathwayanalysisplatformpathwaymatcher","query","network","pathwaymatcher","supports","multiple","types","omics","data","input","outputs","biochemical","reactions","subnetworks","pathwaysnnconclusionspathwaymatcher","enables","refining","network","representation","pathways","including","isoform","post","translational","modifications","specificity","pathway","analyses","adapted","levels","granularity","distinguish","interactions","forms","protein"]
+Done 3
+Index Update: 375097.3 >>> Complete
+375105.3
+375105.3
+["psychoactive","plant","mushroom","alkaloids","behavior","modifying","cicada","pathogens"]
+375105.3
+["entomopathogenic","fungi","routinely","kill","hosts","releasing","infectious","spores","select","species","insects","alive","sporulating","enhances","dispersal","transcriptomics","metabolomics","studies","entomopathogens","post","mortem","dissemination","parasitized","hosts","unraveled","infection","processes","host","responses","mechanisms","underlying","active","spore","transmission","entomophthoralean","fungi","living","insects","remain","elusive","report","discovery","metabolomics","plant","amphetamine","cathinone","massospora","cicadina","infected","periodical","cicada","populations","mushroom","tryptamine","psilocybin","annual","cicadas","infected","massospora","platypediae","massospora","levispora","represent","single","fungal","species","absence","fungal","enzymes","cathinone","psilocybin","biosynthesis","inability","detect","intermediate","metabolites","gene","orthologs","consistent","biosynthesis","pathways","massospora","neurogenic","activities","compounds","extended","phenotype","massospora","modifies","cicada","behavior","maximize","dissemination","chemically","induced"]
+Done 3
+Index Update: 375105.3 >>> Complete
+387662.2
+387662.2
+["reliable","variant","calling","runtime","illumina","sequencing"]
+387662.2
+["sequential","paradigm","data","acquisition","analysis","generation","sequencing","leads","high","turnaround","times","generation","interpretable","combined","real","time","read","mapping","algorithm","fast","variant","calling","reliable","variant","calls","sequencing","process","algorithm","accurate","read","mapping","intermediate","cycles","supports","large","reference","genomes","complete","human","reference","enables","combination","real","time","read","mapping","complex","follow","analysis","study","accuracy","scalability","approach","applying","real","time","read","mapping","variant","calling","publicly","human","exome","sequencing","datasets","detected","snps","identified","sequencing","cycles","showing","precision","sequencing","final","accuracy","conventional","post","hoc","analysis","methods","compared","standard","routines","live","approach","enables","considerably","faster","interventions","clinical","applications","infectious","disease","outbreaks","variant","calling","approach","adapted","plethora","mapping","based","analyses"]
+Done 3
+Index Update: 387662.2 >>> Complete
+405563.2
+405563.2
+["body","mass","trajectories","preceding","report","poor","rated","health","longitudinal","case","control","analysis","english","longitudinal","study","ageing"]
+405563.2
+["backgroundstudies","consistently","obesity","poor","rated","health","body","mass","bmi","developed","lead","poor","rated","health","unknownnnmethodswe","nested","longitudinal","case","control","study","english","longitudinal","study","ageing","2015","investigate","bmi","trajectories","years","preceding","report","poor","health","participants","rated","health","data","collection","collection","included","bmi","assessment","nurse","case","status","defined","report","poor","health","follow","age","sex","matched","controls","identified","case","density","sampling","bmi","trajectories","fitted","time","backwards","prior","report","poor","health","mixed","effects","models","age","sex","potential","modifiers","conducted","subgroup","analyses","reporting","chronic","diseases","smokingnnresultswe","identified","cases","controls","age","sex","modified","association","bmi","rated","health","participants","reporting","poor","health","age","15","kgm2","95ci","higher","bmi","time","reporting","controls","bmi","increased","sharply","age","cases","longer","higher","bmi","controls","bmi","decreased","sharply","prior","reporting","poor","health","age","modifier","diabetes","bmi","trajectories","middle","agednnconclusiondevelopment","bmi","poor","rated","health","nature","association","depended","markedly","agennotextboxwhat","subjectolistudies","based","single","body","mass","measurement","consistently","underweight","obese","poor","rated","healthncliolihow","body","mass","developed","lead","poor","rated","health","unknownnclinnctextboxnnotextboxwhat","study","addsoliin","study","body","mass","trajectories","leading","poor","rated","health","dependent","age","report","poor","health","middle","aged","participants","poor","rated","health","higher","body","mass","controls","groups","increasing","body","mass","timenclioliin","contrast","report","poor","health","age","preceded","decrease","body","mass","controls","years","older","cases","started","lose","body","mass","indexnclioliour","future","prospective","studies","clinical","decision","making","account","age","dependent","association","development","body","mass","preceding","poor","rated","healthnclinnctextbox"]
+Done 3
+Index Update: 405563.2 >>> Complete
+405993.2
+405993.2
+["spatial","organization","clostridium","difficile","layer","biogenesis"]
+405993.2
+["surface","layers","layers","protective","protein","coats","form","archaea","bacterial","cells","clostridium","difficile","gram","positive","bacterium","layer","covering","peptidoglycan","cell","wall","layer","difficile","constructed","layer","protein","slpa","key","virulence","factor","absolute","requirement","disease","layer","biogenesis","complex","multi","step","process","disruption","severe","consequences","bacterium","examined","subcellular","localization","slpa","secretion","layer","growth","observing","formation","layer","specific","sites","coincide","cell","wall","synthesis","secretion","slpa","cell","delocalized","conclude","delocalized","secretion","slpa","leads","pool","precursor","cell","wall","repair","openings","layer","formed","cell","growth","damage"]
+Done 3
+Index Update: 405993.2 >>> Complete
+411397.2
+411397.2
+["systematically","improved","vitro","culture","conditions","reveal","insights","reproductive","biology","human","parasite","schistosoma","mansoni"]
+411397.2
+["schistosomes","infect","people","prodigious","egg","output","parasites","sole","driver","pathology","infection","understanding","sexual","reproduction","limited","egg","production","sustained","days","vitro","describe","culture","conditions","support","schistosome","sexual","development","sustained","egg","production","vitro","female","schistosomes","rely","continuous","pairing","male","worms","fuel","maturation","reproductive","organs","exploiting","culture","conditions","explore","process","male","stimulated","female","maturation","demonstrate","physical","contact","male","worm","insemination","sufficient","induce","female","development","production","viable","parthenogenetic","haploid","embryos","report","characterization","nuclear","receptor","call","vitellogenic","factor","essential","female","sexual","development","pairing","male","worm","provide","platform","study","fascinating","sexual","biology","parasites","molecular","level","illuminating","strategies","control","schistosome","egg","production"]
+Done 3
+Index Update: 411397.2 >>> Complete
+411538.2
+411538.2
+["hybrid","automata","library","modular","platform","efficient","hybrid","modeling","real","time","visualization"]
+411538.2
+["hybrid","automata","library","hal","java","library","developed","mathematical","oncology","modeling","simple","efficient","generic","components","model","complex","spatial","systems","hals","components","broadly","classified","lattice","agent","containers","finite","difference","diffusion","fields","gui","building","system","additional","tools","utilities","computation","data","collection","components","designed","operate","independently","standardized","easy","interface","demonstration","modeling","simplified","approach","included","complete","hybrid","model","spatial","model","interacting","agent","based","pde","components","hal","asset","researchers","build","efficient","1d","2d","3d","hybrid","models","java","starting","scratch","github","httpsgithubcomtorococohal","mit","license","hal","requires","java","java","jdk","version","compile","source","codenn1","author","summaryin","paper","introduce","hybrid","automata","library","hal","purpose","simplifying","implementation","sharing","hybrid","models","mathematical","oncology","hybrid","modeling","oncology","create","spatial","models","tissue","typically","modeling","cells","agent","based","techniques","modeling","diffusible","chemicals","partial","differential","equations","pdes","hals","key","components","designed","agent","based","models","pdes","visualization","components","standardized","completely","decoupled","models","built","combination","explore","philosophy","hal","summarize","components","lastly","demonstrate","components","work","hybrid","model","walk","code","construct","hal","open","source","produce","identical","machine","supports","java","making","highly","portable","recommend","hal","modelers","interested","spatial","dynamics","mathematical","oncology","components","general","facilitate","variety","model","types","community","download","link","online","documentation","httpshalloworldorg"]
+Done 3
+Index Update: 411538.2 >>> Complete
+420877.2
+420877.2
+["joint","evolution","lifespan","fertilisation"]
+420877.2
+["angiosperms","exists","strong","association","mating","system","lifespan","fertilising","species","short","lived","predominant","obligate","outcrossers","long","lived","association","generally","explained","influence","lifespan","evolution","mating","system","lifespan","fixed","lifespan","evolve","mating","system","influence","evolution","lifespan","suggested","joint","evolutionary","shifts","lifespan","mating","system","sister","species","paper","build","modifier","models","study","joint","evolution","fertilisation","lifespan","including","juvenile","adult","inbreeding","depression","fertilisation","expected","promote","evolution","shorter","lifespan","range","conditions","selfing","evolve","rapidly","shrinks","lifespan","increases","study","effects","inbreeding","depression","steps","life","cycle","discuss","extrinsic","mortality","conditions","expected","affect","evolutionary","associations","selfers","remain","short","lived","stable","habitat","strategy","avoid","deleterious","effects","inbreeding"]
+Done 3
+Index Update: 420877.2 >>> Complete
+420570.2
+420570.2
+["simple","robust","low","cost","method","produce","pure","cell","free","system"]
+420570.2
+["demonstrate","simple","robust","low","cost","method","producing","pure","cell","free","transcription","translation","system","onepot","pure","system","achieved","protein","synthesis","yield","microgml","cost","usdmicrol","leading","14","fold","improvement","cost","normalized","protein","synthesis","yield","existing","pure","systems","onepot","method","pure","system","easy","generate","optimized","modified"]
+Done 3
+Index Update: 420570.2 >>> Complete
+421065.2
+421065.2
+["incentive","salience","attribution","sensation","seeking","novelty","seeking","independent","traits","large","sample","male","female","heterogeneous","stock","rats"]
+421065.2
+["number","traits","thought","increase","susceptibility","addiction","modeled","preclinical","studies","sensation","seeking","predictive","initial","propensity","drugs","novelty","seeking","predicts","compulsive","drug","seeking","behavior","addition","propensity","attribute","incentive","salience","reward","cues","predict","propensity","approach","drug","cues","reinstatement","relapse","periods","drug","exposure","question","addressed","extent","vulnerability","factors","predictive","relationships","reported","small","samples","large","sample","outbred","male","female","heterogeneous","stock","rats","screened","pavlovian","conditioned","approach","behavior","incentive","salience","attribution","sign","tracking","subsequently","tested","sensation","seeking","novelty","seeking","large","correlations","traits","males","females","relationships","multiple","measures","incentive","salience","attribution","based","findings","generated","metric","captures","incentive","sex","differences","measures","incentive","salience","attribution","sensation","seeking","behavior","apparent"]
+Done 3
+Index Update: 421065.2 >>> Complete
+421172.3
+421172.3
+["machine","learning","assess","trunk","alignment","directly","raw","video","depth","camera"]
+421172.3
+["backgroundthe","segmental","assessment","trunk","control","satco","evaluates","sitting","control","separate","trunk","segments","making","judgement","based","position","space","relative","defined","aligned","posture","satco","regular","clinical","recommended","instrument","cerebral","palsy","spinal","cord","injury","paediatric","national","institute","neurological","disorders","stroke","satco","remains","subjective","assessmentnnresearch","questionthis","study","tests","feasibility","providing","objective","automated","identification","frames","aligned","reference","trunk","posture","deep","convolutional","neural","network","dcnn","analysis","raw","high","definition","depth","hdd","imagesnnmethodsa","satco","conducted","sixteen","healthy","male","adults","recorded","kinect","v2","segments","tested","trials","collected","control","control","simulate","range","alignment","configurations","images","classification","alignment","trained","validated","dcnn","compared","expert","clinicians","labellingnnresultsusing","leave","testing","optimal","operating","threshold","dcnn","correctly","classified","individual","images","alignment","misaligned","average","precision","16","sdnnsignificancethese","time","automation","key","component","satco","test","identification","aligned","trunk","posture","directly","raw","images","hdd","demonstrates","potential","machine","learning","provide","fully","automated","objective","satco","test","enhance","assessment","trunk","control","children","adults","treatment","conditions","including","neurodisability","stroke"]
+Done 3
+Index Update: 421172.3 >>> Complete
+423301.3
+423301.3
+["extended","hopanoid","loss","reduces","bacterial","motility","surface","attachment","leads","heterogeneity","root","nodule","kinetics","bradyrhizobium","aeschynomene","symbiosis"]
+423301.3
+["hopanoids","steroid","bacterial","lipids","enhance","membrane","rigidity","promote","bacterial","growth","diverse","stresses","hopanoid","biosynthesis","genes","conserved","nitrogen","fixing","plant","symbionts","extended","c35","class","hopanoids","bradyrhizobium","diazoefficiens","required","efficient","symbiotic","nitrogen","fixation","tropical","legume","host","aeschynomene","afraspera","demonstrate","nitrogen","fixation","defect","conferred","extended","loss","fully","explained","reduction","root","nodule","sizes","bacteroid","nitrogen","fixation","levels","single","nodule","tracking","approach","track","afraspera","nodule","development","provide","quantitative","model","root","nodule","development","host","uncovering","baseline","growth","parameters","wild","type","nodules","surprising","heterogeneity","extended","hopanoid","mutant","developmental","phenotypes","phenotypes","include","delay","root","nodule","initiation","presence","subpopulation","nodules","slow","growth","rates","low","final","volumes","correlated","reduced","motility","surface","attachment","vitro","lower","bacteroid","densities","planta","work","quantitative","reference","point","understanding","phenotypic","diversity","ineffective","symbionts","afraspera","identifies","specific","developmental","stages","extended","hopanoid","loss","future","mechanistic","work"]
+Done 3
+Index Update: 423301.3 >>> Complete
+425892.3
+425892.3
+["chrogps2","differential","analysis","epigenome","maps"]
+425892.3
+["1in","years","systematic","mapping","epigenomics","data","multiple","organisms","tissues","cell","lines","ability","efficiently","integrate","visualize","compare","remains","challenge","chrogps","version","major","update","developed","software","chrogps","visualization","differential","analysis","epigenomes","methods","provided","efficient","integration","comparison","data","conditions","biological","backgrounds","accounting","adjusting","systematic","biases","order","provide","efficient","statistically","robust","base","differential","analysis","include","functionalities","general","data","assessment","quality","control","prior","comparing","maps","functions","study","chromatin","domain","conservation","epigenomic","backgrounds","detect","gross","technical","outliers","selection","candidate","marks","de","novo","epigenome","mappingnnavailabilityhttpswwwbioconductororgpackagesreleasebiochtmlchrogpshtml","contact","oscarreinairbbarcelonaorg"]
+Done 3
+Index Update: 425892.3 >>> Complete
+439117.2
+439117.2
+["asthma","neoplasms","relationships","insights","machine","inference","epidemiological","reasoning","big","data"]
+439117.2
+["backgrounda","relationship","asthma","risk","cancer","identified","studies","studies","methodologies","cross","sectional","nature","contradictory","population","level","analyses","required","determine","relationship","exists","methodswe","developed","machine","learning","tool","infer","associations","causal","inference","composition","transactions","cict","payers","claim","datasets","hospitalization","encounters","based","healthcare","cost","utilization","project","hcup","discovery","validation","associations","asthma","neoplasms","discovered","data","state","florida","validation","conducted","cohorts","patients","asthma","subtypes","asthma","copd","datasets","state","california","control","groups","matched","gender","age","race","history","tobacco","odds","ratio","analysis","bonferroni","holm","correction","measured","association","asthma","copd","benign","malignant","neoplasms","icd9cm","codes","identify","exposures","outcomes","findingscict","identified","associations","asthma","risk","neoplasia","discovery","dataset","validation","studies","case","control","analyses","conducted","subtypes","asthma","999370","male","age","copd","n715971","male","age69","matched","control","groups","n8400004","male","age","allergic","asthma","benign","neoplasms","meninges","salivary","pituitary","parathyroid","thyroid","glands","or152","malignant","neoplasms","breast","intrahepatic","biliary","system","hematopoietic","lymphatic","system","copd","malignant","neoplasms","lung","bladder","hematopoietic","systems","interpretationthe","combined","machine","learning","methods","knowledge","discovery","epidemiological","methods","allergic","asthma","development","neoplasia","including","glandular","organs","ductal","tissues","hematopoietic","systems","findings","differentiate","pattern","neoplasms","allergic","asthma","obstructive","asthma","suggests","inflammatory","pathways","active","asthma","contribute","neoplastic","transformation","specific","organ","systems","secretory","organs","fundingnone","glance","commentaryover","decades","studies","suggested","asthma","increase","risk","developing","cancer","consensus","reached","debate","persists","current","evidence","derived","cross","sectional","statistical","designs","limited","datasets","small","cohorts","conflicting","addition","mechanism","allergic","airway","inflammation","contributes","neoplastic","transformation","postulated","proven","largest","study","association","patients","asthma","copd","knowledge","discovery","method","hypothesis","generation","combined","epidemiological","reasoning","tools","identified","associations","airway","disease","neoplasia","reveal","relationships","allergic","asthma","benign","glandular","tumors","confirm","connections","copd","lung","cancer","identified","association","copd","asthma","hematological","malignancies","findings","rectify","contradictory","studies","demonstrate","types","neoplasms","asthma","compared","copd","infers","mechanistic","plausibility"]
+Done 3
+Index Update: 439117.2 >>> Complete
+445601.2
+445601.2
+["uncertainty","rna","seq","gene","expression","data"]
+445601.2
+["rna","sequencing","data","identify","disease","biomarkers","therapeutic","targets","data","rna","seq","processing","pipelines","applied","human","tumor","normal","tissues","protein","coding","genes","samples","current","class","rna","seq","processing","pipelines","differ","abundance","estimates","fold","samples","set","rna","seq","reads","raising","clinical","concern"]
+Done 3
+Index Update: 445601.2 >>> Complete
+453951.2
+453951.2
+["highly","predictive","transdiagnostic","features","shared","schizophrenia","bipolar","disorder","adhd","identified","machine","learning","based","approach"]
+453951.2
+["diagnostic","statistical","manual","mental","disorders","dsm","standard","diagnosing","psychiatric","disorders","united","states","evidence","suggested","symptoms","psychiatric","disorders","restricted","boundaries","dsm","categories","implying","underlying","latent","transdiagnostic","structure","psychopathology","applied","guided","machine","learning","technique","model","selection","item","level","data","reported","instruments","contained","consortium","neuropsychiatric","phenomics","dataset","questionnaire","items","identified","set","features","consisted","items","shared","diagnoses","schizophrenia","scz","bipolar","disorder","bd","attention","deficithyperactivity","disorder","adhd","classifier","trained","transdiagnostic","features","reliably","distinguished","patient","group","healthy","controls","classification","auc","items","needed","attain","performance","level","auc","sum","score","created","items","produced","high","separability","patients","healthy","controls","cohens","outperformed","predefined","sum","scores","scores","instruments","cohens","ranging","transdiagnostic","features","comprised","symptom","domains","dysregulated","mood","attention","deficit","anhedonia","personality","traits","neuroticism","impulsivity","extraversion","comparing","features","common","patient","groups","predictive","single","patient","category","describe","unique","features","patient","group","superimposed","transdiagnostic","feature","structure","reveal","latent","transdiagnostic","symptombehavioral","phenotypic","structure","shared","scz","bd","adhd","perspective","understand","insights","offered","report","psychiatric","instruments"]
+Done 3
+Index Update: 453951.2 >>> Complete
+461137.2
+461137.2
+["netpyne","tool","data","driven","multiscale","modeling","brain","circuits"]
+461137.2
+["biophysical","modeling","neuronal","networks","helps","integrate","interpret","rapidly","growing","disparate","experimental","datasets","multiple","scales","netpyne","tool","wwwnetpyneorg","programmatic","graphical","interfaces","develop","data","driven","multiscale","network","models","neuron","netpyne","separates","model","parameters","implementation","code","users","provide","specifications","high","level","standardized","declarative","language","connectivity","rule","tens","loops","create","millions","cell","cell","connections","users","generate","neuron","network","efficiently","parallelized","simulations","optimize","explore","network","parameters","automated","batch","runs","built","functions","visualization","analysis","connectivity","matrices","voltage","traces","raster","plots","local","field","potentials","theoretic","measures","netpyne","facilitates","model","sharing","exporting","importing","neuroml","sonata","standardized","formats","netpyne","teach","computational","neuroscience","students","modelers","investigate","brain","regions","phenomena"]
+Done 3
+Index Update: 461137.2 >>> Complete
+461418.2
+461418.2
+["requirement","neutrophil","glycosaminoglycans","chemokinereceptor","interactions","revealed","streptococcal","protease","spycep"]
+461418.2
+["evade","immune","system","lethal","human","pathogen","streptococcus","pyogenes","produces","spycep","enzyme","cleaves","terminal","helix","cxcl8","markedly","impaired","recruitment","neutrophils","sites","invasive","infection","basis","chemokine","inactivation","spycep","understood","core","domain","cxcl8","interact","cxcl8","receptors","unaffected","enzymatic","cleavagennwe","examined","vitro","migration","human","neutrophils","observed","ability","efficiently","navigate","cxcl8","gradient","compromised","cxcl8","cleavage","spycep","spycep","mediated","cleavage","cxcl8","impaired","cxcl8","induced","migration","transfectants","expressing","human","chemokine","receptors","cxcr1","cxcr2","possessing","intact","terminus","preserved","disulphide","bonds","spycep","cleaved","cxcl8","impaired","binding","cxcr1","cxcr2","pointing","requirement","terminal","helix","spycep","cleaved","cxcl8","impaired","binding","glycosaminoglycan","heparin","enzymatic","removal","neutrophil","glycosaminoglycans","observed","ablate","neutrophil","navigation","cxcl8","gradient","whilst","navigation","fmlp","gradient","remained","intactnnwe","conclude","spycep","cleavage","cxcl8","chemokine","inactivation","requirement","glycosaminoglycan","binding","productive","chemokinereceptor","interactions","inform","strategies","inhibit","activity","spycep","influence","future","approaches","inhibit","unwanted","chemokine","induced","inflammation"]
+Done 3
+Index Update: 461418.2 >>> Complete
+465955.3
+465955.3
+["distance","based","protein","folding","powered","deep","learning"]
+465955.3
+["direct","coupling","analysis","dca","protein","folding","good","progress","effective","proteins","lack","sequence","homologs","coupled","time","consuming","folding","simulation","accurately","predict","distance","matrix","protein","deep","learning","proteins","sequence","homologs","geometric","constraints","distance","matrix","construct","3d","models","involving","folding","simulation","method","folded","casp12","hard","targets","median","family","size","effective","sequence","homologs","hours","linux","computer","cpus","contrast","dca","fold","hard","targets","absence","folding","simulation","casp12","group","folded","integrating","dca","predicted","contacts","complex","fragment","based","folding","simulation","rigorous","experimental","validation","casp13","distance","based","folding","server","folded","hard","targets","median","family","size","sequence","homologs","precision","top","l5","long","range","predicted","contacts","latest","experimental","validation","cameo","server","predicted","correct","fold","membrane","proteins","fold","servers","failed","imply","feasible","predict","correct","fold","proteins","lack","structures","pdb","personal","computer","folding","simulationnnsignificanceaccurate","description","protein","structure","function","fundamental","step","understanding","biological","life","highly","relevant","development","therapeutics","greatly","improved","experimental","protein","structure","determination","low","throughput","costly","membrane","proteins","computational","structure","prediction","resorted","predicting","structure","protein","fold","structures","pdb","challenging","large","amount","computing","power","paper","powerful","deep","learning","technique","personal","computer","predict","folds","accurately","method","works","membrane","protein","folding"]
+Done 3
+Index Update: 465955.3 >>> Complete
+469676.2
+469676.2
+["hair","cell","neuron","degeneration","contribute","hearing","loss","dfna2","mouse","model"]
+469676.2
+["highlightsolikcnq4","knock","mouse","hair","cells","spiral","ganglion","neuron","degenerationnclioliinner","hair","cells","spiral","ganglion","neuron","loss","weeks","outer","hair","cells","kcnq4","micenclioliinner","hair","cell","loss","kinetic","faster","outer","hair","cells","cochlear","basal","turn","kcnq4","nclioliouter","hair","cells","kcnq4","mice","degenerate","slower","apical","basal","turnncliolikcnq4","knock","allele","expressed","c3hhej","strain","reproduces","phases","dfna2","hearing","lossnclinngraphical","abstractnnofig","olinksmallfig","width200","height78","srcfigdirsmall469676ufig1gif","altfigure","1nview","larger","version","31knorghighwiredtldtlvardef1bdff20orghighwiredtldtlvardefb8cc51orghighwiredtldtlvardef6deeb9orghighwiredtldtlvardef153f381hpsformatfigexp","mfig","cfig"]
+Done 3
+Index Update: 469676.2 >>> Complete
+475608.2
+475608.2
+["hepatic","amino","butyric","acid","release","drives","hyperinsulinemia","insulin","resistance"]
+475608.2
+["degree","hepatic","lipid","accumulation","obesity","correlates","severity","hyperinsulinemia","systemic","insulin","resistance","propose","mechanism","explains","associative","link","hepatic","steatosis","dysregulates","glucose","insulin","homeostasis","obesity","induced","hepatocellular","lipid","accumulation","hepatocyte","depolarization","established","hepatocyte","depolarization","depresses","hepatic","afferent","vagal","nerve","firing","increases","gaba","release","liver","slices","hyperinsulinemia","preventing","hepatic","gaba","release","eliminating","ability","liver","communicate","hepatic","vagal","nerve","ameliorates","hyperinsulinemia","insulin","resistance","diet","induced","obesity","people","obesity","hepatic","expression","gaba","transporters","glucose","infusion","disposal","rates","hyperinsulinemic","euglycemic","clamp","single","nucleotide","polymorphisms","hepatic","gaba","uptake","transporters","increased","incidence","type","ii","diabetes","mellitus","identify","gaba","hepatokine","dysregulated","obesity","release","manipulated","mute","exacerbate","glucoregulatory","dysfunction","common","obesity"]
+Done 3
+Index Update: 475608.2 >>> Complete
+482406.4
+482406.4
+["single","patch","local","regional","processes","explain","biodiversity","patterns","seagrass","epifaunal","metacommunity"]
+482406.4
+["ecological","communities","jointly","structured","dispersal","density","independent","responses","environmental","conditions","density","dependent","biotic","interactions","metacommunity","ecology","framework","understanding","processes","combine","determine","community","composition","local","sites","regionally","connected","dispersal","temperate","seagrass","meadows","british","columbia","coast","tested","hypothesis","eelgrass","zostera","marina","epifaunal","invertebrate","assemblages","influenced","local","environmental","conditions","high","dispersal","rates","larger","spatial","scales","dampen","effects","environmental","differences","hierarchical","joint","species","distribution","modelling","understand","contribution","environmental","conditions","spatial","distance","meadows","species","occurrences","epifaunal","invertebrate","abundance","distribution","region","patterns","taxonomic","compositional","similarity","meadows","inconsistent","dispersal","limitation","meadows","region","meadows","abiotic","environmental","conditions","temperature","dissolved","oxygen","explained","small","fraction","variation","taxonomic","abundances","patterns","region","occurrence","patterns","taxa","explained","shared","responses","environmental","gradients","suggesting","possibility","interspecific","interactions","influence","seagrass","invertebrate","abundance","distribution","add","mounting","evidence","suggests","biodiversity","ecosystem","functions","provided","seagrass","meadows","reflect","ecological","processes","occurring","meadows","seascapes","management","eelgrass","habitat","biodiversity","effective","local","regional","processes","considered"]
+Done 3
+Index Update: 482406.4 >>> Complete
+487983.2
+487983.2
+["presence","impact","reference","bias","population","genomic","studies","prehistoric","human","populations"]
+487983.2
+["high","quality","reference","genomes","resource","genomic","projects","consequence","dna","fragments","carrying","reference","allele","map","suc","cessfully","receive","higher","quality","scores","reference","bias","effects","downstream","population","genomic","analysis","heterozygous","sites","falsely","considered","homozygous","reference","allelennin","palaeogenomic","studies","human","populations","mapping","human","reference","genome","identify","endogenous","human","sequences","ancient","dna","studies","operate","low","sequencing","coverages","fragmentation","dna","molecules","large","proportion","sequenced","fragments","shorter","bp","reducing","amount","accepted","mismatches","increasing","probability","multiple","matching","sites","genome","ancient","dna","specific","properties","exacerbating","impact","reference","bias","downstream","analyses","studies","ancient","human","populations","pseudohaploid","data","randomly","sample","sequencing","read","sitennwe","reference","bias","pervasive","published","ancient","dna","sequence","data","pre","historic","humans","differences","individual","genomic","regions","illustrate","strength","reference","bias","negatively","correlated","fragment","length","reference","bias","differences","downstream","analyses","population","affinities","heterozygosity","estimates","estimates","archaic","ancestry","spurious","highlight","aware","technical","artifacts","strategies","mitigate","post","mapping","filtering","strategies","resolve","reference","bias","reduce","impact"]
+Done 3
+Index Update: 487983.2 >>> Complete
+490714.3
+490714.3
+["tracking","genetic","invasions","genome","wide","snps","reveal","source","pyrethroid","resistant","aedes","aegypti","yellow","fever","mosquito","incursions","international","ports"]
+490714.3
+["biological","invasions","increasing","globally","number","extent","efforts","restrict","spread","knowledge","incursion","pathways","prevent","invasions","design","effective","biosecurity","protocols","source","recipient","locations","study","genome","wide","single","nucleotide","polymorphisms","snps","determine","origin","incursive","aedes","aegypti","yellow","fever","mosquito","detected","international","ports","australia","zealand","genotyped","mosquitoes","point","mutations","voltage","sensitive","sodium","channel","vssc","gene","v1016g","f1534c","s989p","mutations","confer","knockdown","resistance","synthetic","pyrethroid","insecticides","controlling","invertebrate","pests","delineated","reference","populations","ae","aegypti","sampled","locations","asia","south","america","australia","pacific","islands","incursives","assigned","populations","discriminant","analysis","principal","components","dapc","assignment","test","support","vector","machine","predictive","model","bali","indonesia","common","origin","ae","aegypti","detected","australia","ae","aegypti","detected","zealand","originated","pacific","islands","fiji","incursives","allelic","genotype","vssc","gene","point","mutations","confers","strong","resistance","synthetic","pyrethroids","insecticide","class","current","implemented","aircraft","disinsection","protocols","endorsed","health","organisation","additionally","internationally","assigned","ae","aegypti","vssc","point","mutations","linked","pyrethroid","resistance","australian","populations","findings","demonstrate","protocols","preventing","introductions","invertebrates","insecticide","resistance","highlights","genomic","datasets","managing","global","biosecurity","objectives"]
+Done 3
+Index Update: 490714.3 >>> Complete
+492280.3
+492280.3
+["lamarckian","model","inheritance","epigenetically","coded","phenotypic","characteristics","paradigm","genetics","genomics","ageing","studies"]
+492280.3
+["introduction","introduction","laws","flow","based","nature","paradigm","conclusions","competing","interests","references","paper","introduce","theoretical","considerations","proven","experimental","frameworks","designed","test","stand","paradigmatic","change","genetics","genomics","ageing","studies","paper","develops","theoretical","framework","proposed","author","marsellach","paper","written","standalone","paper","describe","detail","hinted","model","marsellach","adds","emphasis","putative","implications","proposed","theoretical","framework"]
+Done 3
+Index Update: 492280.3 >>> Complete
+490789.2
+490789.2
+["high","dimensional","characterization","il","production","il","dependent","regulation","primary","gammaherpesvirus","infection"]
+490789.2
+["interleukin","il","potent","immunomodulatory","cytokine","produced","multiple","cell","types","restrain","immune","activation","herpesviruses","il","pathway","facilitate","infection","endogenous","il","regulated","primary","infection","vivo","remains","characterized","infected","mice","murine","gammaherpesvirus","gammahv68","analyzed","production","genetic","contribution","il","mass","cytometry","cytometry","time","flight","cytof","analysisgamma","hv68","infection","elicited","breadth","effector","cd4","cells","lungs","acutely","infected","mice","including","highly","activated","effector","subset","expressed","ifngamma","tnf","il","il","green","fluorescent","protein","gfp","transcriptional","reporter","mice","identified","il","expressed","cd4","cells","acute","infection","lungs","il10gfp","expressing","cd4","cells","highly","proliferative","characterized","expression","multiple","inhibitory","receptors","including","pd","lag","analyzed","acutegamma","hv68","infection","il","deficient","mice","il","limits","frequency","myeloid","effector","cd4","cell","subsets","infected","lung","minimal","distant","mucosal","site","data","emphasize","unique","insights","high","dimensional","analysis","afford","investigating","antiviral","immunity","provide","insights","breadth","phenotype","function","il","expressing","effector","cd4","cells","acute","virus","infectionnnthis","work","funded","national","institutes","health","grants","r01","ai121300","r01","ca168558","lfvd","american","heart","association","national","scientist","development","grant","13sdg14510023","crohns","colitis","foundation","america","pilot","grant","lung","head","neck","cancer","program","university","colorado","cancer","center","career","enhancement","award","university","colorado","lung","cancer","specialized","program","excellence","p50ca58187","etcnnthe","lung","head","neck","program","university","colorado","cancer","center","flow","cytometry","shared","resource","directly","funded","support","national","cancer","institute","cancer","center","support","grant","p30ca046934nnabbreviations","article"]
+Done 3
+Index Update: 490789.2 >>> Complete
+494971.2
+494971.2
+["fishnet","automated","relational","database","zebrafish","colony","management"]
+494971.2
+["zebrafish","danio","rerio","powerful","model","system","study","genetics","development","disease","maintenance","zebrafish","husbandry","records","time","intensive","laborious","standardized","manage","track","large","amount","unique","lines","laboratory","centralized","facility","embraced","field","fishnet","intuitive","open","source","relational","database","managing","data","zebrafish","husbandry","maintenance","creating","virtual","facility","fishnet","enables","users","remotely","inspect","rooms","racks","tanks","lines","facility","importantly","fishnet","scales","laboratory","entire","facility","laboratories","multiple","facilities","generating","cohesive","laboratory","community","based","platform","automated","data","entry","eliminates","confusion","nomenclature","streamlines","maintenance","individual","lines","flexible","query","forms","researchers","retrieve","database","records","based","user","defined","criteria","fishnet","links","embryonic","adult","biological","samples","data","genotyping","confocal","images","enable","robust","efficient","colony","management","storage","laboratory","shared","calendar","function","email","notifications","automated","reminders","turnover","automated","tank","counts","census","reports","promote","communication","users","administrators","expected","benefits","fishnet","improved","vivaria","efficiency","increased","quality","control","experimental","numbers","flexible","data","reporting","retrieval","fishnets","easy","intuitive","record","management","open","source","user","modifiable","architecture","efficient","solution","real","time","zebrafish","colony","management","users","facility","institution","cases","entire","hubs"]
+Done 3
+Index Update: 494971.2 >>> Complete
+497354.2
+497354.2
+["germline","variants","rs61757955","rs34988193","predictive","survival","low","grade","glioma","patients"]
+497354.2
+["abstractlow","grade","gliomas","invasive","brain","tumors","difficult","completely","resect","neurosurgically","recur","resection","progress","death","previous","studies","specific","germline","variants","increase","risk","tumor","formation","previous","study","screened","germline","variants","identify","variants","predictive","survival","glioma","patients","study","approach","identify","small","fraction","prognostic","germline","variants","pool","variants","variant","called","cancer","genome","atlas","exome","sequencing","rna","sequencing","datasets","identified","germline","variants","predictive","poor","patient","outcomes","cox","regression","controlling","eleven","covariates","rs61757955","germline","variant","utr","grb2","increased","kras","signaling","cic","mutations","1p19q","deletion","rs34988193","germline","variant","tumor","suppressor","gene","ankdd1a","amino","acid","change","lysine","glutamate","variant","predictive","poor","prognosis","independent","low","grade","glioma","datasets","predicted","top","deleterious","mutations","human","genome","wild","type","residue","conserved","species","homologous","proteinnnimplicationsthis","study","presenting","approach","screening","germline","variants","identify","variants","predictive","survival","application","methodology","revealed","germline","variants","rs61757955","rs34988193","predictive","survival","low","grade","glioma","patients"]
+Done 3
+Index Update: 497354.2 >>> Complete
+499178.2
+499178.2
+["competitive","balance","big","european","leagues","based","shannon","entropy"]
+499178.2
+[]

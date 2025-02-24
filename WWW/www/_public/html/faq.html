@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/faq.css" charset="utf-8">
+    <link rel="stylesheet" href="../css/main.css" charset="utf-8">
+    <link rel="icon" href="../icons/LogoTuga2_32.png">
+    <title>tugaRxiv</title>
+</head>
+<body>
+    <!-- Header da pagina -->
+    <div class="nav-container">
+        <div class="nav-logo">
+            <a href="/" id="navlogo">
+                <img type="icon" src="../image/logo.png" alt="tugaRxiv">
+            </a>
+        </div>
+        <div class="block" id="navusersbtn"></div> <!-- Dinamic User Bottons-->
+        <div class="user-options" id="useroptions">
+            <div class="user-options-btn"><a href="/changePass">Change Password</a></div>
+            <div class="user-options-btn"><a href="/modifyEmail">Modify Email</a></div>
+            <div class="user-options-btn"><a href="/deleteAccount">Delete Account</a></div>
+            <div class="user-options-btn"><a href="/users/logout">Logout</a></div>
+        </div>
+    </div>
+    <!-- Container Central -->
+    <div class="main" id="main">
+        <div class="faq-supercontainer">
+            <div class="faq-main-container">
+                <div class="faq-title-container">
+                    <div class="faq-title">
+                        <div class="btn-faq-title">FAQ</div>
+                    </div>
+                </div>
+                <div class="faq-content" id="faqcontent">
+                    <div class="faq-q">Why tugaRxiv?</div>
+                    <div class="faq-a">Because users that need preprint also need an easy way to organize they're favorite preprints. tugaRxiv provides that: organization, easy access and similar results for further learning and investigation.</div>
+                    <div class="faq-q">I want to have my own area in tugaRxiv. How do I do it?</div>
+                    <div class="faq-a">You just have to register. Go to login page and create an account. Provide an email and your name and we will send you a password for accessing it.</div>
+                    <div class="faq-q">But can I change the password later?</div>
+                    <div class="faq-a">Yes, you can. You can change your password anytime you want. Logged in you just have to go to user button (on the top right side) and choose Options. Then select "Reset Password" and just follow the steps.</div>
+                    <div class="faq-q">I no longer need tugaRxiv account. Can I delete it?</div>
+                    <div class="faq-a">Yes. You can do it by going to to user button (on the top right side) and choose Options. Then select "Delete Account". Just provide your password and follow the remaining steps and that’s it. Please remember that, after deletion, we can no longer retrieve it. It's a "one way street". But you be welcome to join us anytime you want :)</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer da Pagina -->
+
+    <div class="footer">
+        <div class="footer-links">
+            <div class="link link-left">
+                <a href="javascript:window.open('/faq','_self')">
+                    FAQ
+                </a>
+            </div>
+            <div class="link link-left">
+                <a href="javascript:window.open('/about','_self')">
+                    About
+                </a>
+            </div>
+            <div class="link">
+                <a href="javascript:window.open('/contactus','_self')">
+                    Contact Us
+                </a>
+            </div>
+        </div>
+        <div class="footer-links">
+            <div class="link">
+                @All rights reserved
+            </div>
+        </div>
+    </div>
+</body>
+<script type="module" src="../js/startup.js"></script>
+<script type="module" src="../js/faq.js"></script>
+</html>

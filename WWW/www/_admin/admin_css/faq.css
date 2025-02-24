@@ -1,0 +1,116 @@
+.faq-container{
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 50px;
+    height:85%;
+}
+.faq-table-container {
+    height: 85%;
+    overflow-y: none;
+    overflow-x: hidden;
+}
+
+.scroll{
+overflow-y:auto;
+overflow-x:auto; 
+}
+
+.faq-table > tbody > tr > th, .faq-table > tbody > tr > td {
+    border-collapse: collapse;
+    padding: 5px 15px;
+    text-align: left;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.faq-table > tbody > tr:nth-child(even) {
+    background-color: rgb(220, 211, 211);
+}
+.faq-table > tbody > tr:nth-child(odd) {
+   background-color: rgb(189, 180, 180);
+}
+.faq-table > tbody > tr > th {
+    background-color: #3F372D;
+    color: white;
+}
+.faq-table > tbody > tr:hover {
+    background-color: var(--y);
+}
+.faq-table > tbody > tr > td {
+    border-collapse: collapse;
+    padding: 5px 15px;
+    text-align: left;
+    cursor: pointer;
+    font-size: 12px;
+    flex-wrap: wrap;
+}
+
+.faq-edit-btn {
+    display: flex;
+    flex-direction: column;
+    width:20px;
+    align-items: center;
+    justify-content: top;
+    padding: 10px;
+}
+.edit-btn {
+    border:none;
+    margin-bottom: 10px;
+}
+.edit-btn > img {
+    height: 20px;
+}
+
+
+/* =================================================== */
+
+.faq-edit-container{
+    display:flex;
+    flex-direction: row;
+
+}
+.faq-edit-table{
+    border-collapse:collapse;
+}
+.faq-edit, .faq-edit-table,tbody{
+    width:100%;
+
+}
+
+.faq-col-id{
+    width:44px;
+    border:1px solid #ccc;
+}
+
+.faq-col-q{
+    /* width:27%; */
+    border:1px solid #ccc;
+}
+.faq-col-a{
+    /* width:27%; */
+    border:1px solid #ccc;
+}
+textarea{
+    resize:none;
+    width:99%;
+    height:100px;
+    border:none;
+    background-color: rgba(204, 204, 204, 0);
+    font-size: 12px;
+    outline: none;
+    padding:5px;
+}
+
+.faq-th{
+    background-color: #3F372D;
+    color: white;
+    padding:3px 0px;
+    font-size: 12px;
+}
+#txtid{
+    text-align: center;
+}
+
+/* .page-spacer{
+    height:100%;
+} */

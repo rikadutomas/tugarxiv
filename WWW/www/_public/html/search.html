@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css" charset="utf-8">
+    <link rel="stylesheet" href="css/search.css" charset="utf-8">
+    <link rel="stylesheet" href="css/tree.css" charset="utf-8">
+    <link rel="icon" href="./icons/LogoTuga2_32.png">
+    <title>tugaRxiv</title>
+</head>
+<body>
+    <!-- Header da pagina -->
+    <div class="nav-container">
+        <div class="nav-logo">
+            <a href="/" id="navlogo">
+                <img type="icon" src="./image/logo.png" alt="tugaRxiv">
+            </a>
+        </div>
+        <div class="block" id="navusersbtn"></div> <!-- Dinamic User Bottons-->
+        <div class="user-options" id="useroptions">
+            <div class="user-options-btn"><a href="/changePass">Change Password</a></div>
+            <div class="user-options-btn"><a href="/modifyEmail">Modify Email</a></div>
+            <div class="user-options-btn"><a href="/deleteAccount">Delete Account</a></div>
+            <div class="user-options-btn"><a href="/users/logout">Logout</a></div>
+        </div>
+    </div>
+    <!-- MAIN CONTAINER -->
+    <div class="main" id="main">
+        <div class="sidebar">
+            <div class="sidebar-title">
+                <div class="btn-title" id="btn-search">Search</div>
+                <div class="btn-title" id="btn-folders">Folders</div>
+            </div>
+            <div class="sidebar-content dragbox article-dropbox" id="sidebar-content"> <!-- Insert of Sidebar-->
+                
+            </div>
+        </div>
+        <div class="container" id="container">
+            <div class="container-title" id="container-title"></div> <!-- Insert of title-->
+            <div class="container-results dragbox" id="container-results">
+
+            </div> <!-- Insert of content-->    
+        </div>
+    </div>
+
+    <!-- Footer da Pagina -->
+
+    <div class="footer">
+        <div class="footer-links">
+            <div class="link link-left">
+                <a href="javascript:window.open('/faq','_self')">
+                    FAQ
+                </a>
+            </div>
+            <div class="link link-left">
+                <a href="javascript:window.open('/about','_self')">
+                    About
+                </a>
+            </div>
+            <div class="link">
+                <a href="javascript:window.open('/contactus','_self')">
+                    Contact Us
+                </a>
+            </div>
+        </div>
+        <div class="footer-links">
+            <div class="link">
+                @All rights reserved
+            </div>
+        </div>
+    </div>
+    <div class="float-menu" id="float-menu">
+        <!-- <div class="req-fld-name">
+            <form onsubmit="javascript:submitAddFolder()">
+                <div class="req-fld-name-lbl">Folder Name</div>
+                <div class="req-fld-name-input"><input type="text"></div>
+                <div class="req-fld-name-btn">
+                    <button class="req-fld-name-cancel" type="cancel">Cancel</button>
+                    <button class="req-fld-name-ok" type="submit">Ok</button>
+                </div>
+            </form>
+            
+        </div> -->
+    </div>
+</body>
+<script type="module" src="./js/startup.js"></script>
+<script type="module" src="./js/search.js"></script>
+</html>

@@ -1,0 +1,196 @@
+[
+  '0',
+  '00',
+  '000',
+  '00001',
+  '00001026',
+  '000015',
+  '00001nnthe',
+  '00001v',
+  '00004',
+  '00005',
+  '00005the',
+  '00008',
+  '0001',
+  '00012',
+  '00013',
+  '00018',
+  '0001l',
+  '0001nnconclusionpas',
+  '0001nnconclusionprevalence',
+  '0001nnconclusionreductions',
+  '0001nnconclusionresults',
+  '0001nnconclusionsdisease',
+  '0001nnconclusionsin',
+  '0001nnconclusionsjoint',
+  '0001nnconclusionsour',
+  '0001nnconclusionsthis',
+  '0002',
+  '00021nnthis',
+  '0003',
+  '00036',
+  '00038p005',
+  '00039',
+  '0004',
+  '0005',
+  '0005nnconclusionsaf',
+  '0005nnconclusionsthe',
+  '0005nninterpretationthese',
+  '0006',
+  '00060121',
+  '00061',
+  '000665generation',
+  '0006ncliolithere',
+  '0007',
+  '00071',
+  '0008',
+  '0008nnon',
+  '00099',
+  '0009x',
+  '000mb',
+  '000nnconclusionsnnwhilst',
+  '001',
+  '00117',
+  '00124',
+  '00129nnauthor',
+  '00138',
+  '0014',
+  '0015',
+  '0016',
+  '0016ma',
+  '0017',
+  '0017nnconclusionsegfr',
+  '0019',
+  '00190',
+  '001indexxhtml',
+  '001mgl',
+  '001nnconclusionsthe',
+  '001nnconclusionsthese',
+  '001nnimpacts',
+  '002',
+  '0020',
+  '0022degrees',
+  '00249generation',
+  '0025',
+  '0025degrees',
+  '0025x',
+  '0026g',
+  '002764',
+  '002nnour',
+  '002sd',
+  '002x',
+  '003',
+  '0031heart',
+  '003212',
+  '0034',
+  '0034ma',
+  '0034nnabbreviations',
+  '0034nnconclusionshiv',
+  '00355',
+  '0037',
+  '00374',
+  '0038',
+  '0038nnconclusionsour',
+  '00392',
+  '003934',
+  '0039nnconclusionsdsj',
+  '003nm',
+  '003nnconclusionh',
+  '003nnconclusionsperinatal',
+  '003nnconclusionswe',
+  '004',
+  ... 156716 more items
+]
+[
+  '000026.1', '000026.2', '000042.1', '000042.2', '000042.3',
+  '000067.1', '000075.1', '000075.2', '000091.1', '000109.1',
+  '000125.1', '000141.1', '000158.1', '000208.1', '000216.1',
+  '000224.1', '000240.1', '000257.1', '000257.2', '000257.3',
+  '000257.4', '000265.1', '000307.1', '000315.1', '000349.1',
+  '000349.2', '000364.1', '000380.1', '000398.1', '000406.1',
+  '000406.2', '000414.1', '000422.1', '000422.2', '000422.3',
+  '000430.1', '000430.2', '000448.1', '000448.2', '000455.1',
+  '000455.2', '000455.3', '000489.1', '000497.1', '000513.1',
+  '000521.1', '000521.2', '000547.1', '000562.1', '000570.1',
+  '000588.1', '000604.1', '000638.1', '000638.2', '000653.1',
+  '000653.2', '000653.3', '000653.4', '000653.5', '000661.1',
+  '000661.2', '000661.3', '000679.1', '000687.1', '000687.2',
+  '000687.3', '000687.4', '000711.1', '000745.1', '000745.2',
+  '000752.1', '000752.2', '000752.3', '000752.4', '000760.1',
+  '000760.2', '000778.1', '000778.2', '000786.1', '000802.1',
+  '000802.2', '000802.3', '000802.4', '000802.5', '000836.1',
+  '000844.1', '000851.1', '000869.1', '000869.2', '000885.1',
+  '000885.2', '000885.3', '000885.4', '000893.1', '000919.1',
+  '000919.2', '000919.3', '000919.4', '000927.1', '000935.1',
+  ... 53821 more items
+]
+Processing Date :2018-12-17=========================================
+
+Processing 2018-12-17 : 2021-07-06 11:41:40 >> Update from Server -> biorxiv
+https://api.biorxiv.org/details/biorxiv/2018-12-17/2018-12-17/0
+PROM SaveDB > true
+Index Update: 170787.2 >>> Complete
+Index Update: 172320.2 >>> Complete
+Index Update: 242941.2 >>> Complete
+Index Update: 250613.2 >>> Complete
+Index Update: 254086.2 >>> Complete
+Index Update: 262097.3 >>> Complete
+Index Update: 303032.2 >>> Complete
+Index Update: 394148.4 >>> Complete
+Index Update: 406777.3 >>> Complete
+Index Update: 412080.3 >>> Complete
+Index Update: 497644.1 >>> Complete
+Index Update: 498048.1 >>> Complete
+Index Update: 495697.1 >>> Complete
+Index Update: 498337.1 >>> Complete
+Index Update: 495713.1 >>> Complete
+Index Update: 497537.1 >>> Complete
+Index Update: 498410.1 >>> Complete
+Index Update: 498519.1 >>> Complete
+Index Update: 497107.1 >>> Complete
+Index Update: 494971.1 >>> Complete
+Index Update: 495606.1 >>> Complete
+Index Update: 497073.1 >>> Complete
+Index Update: 497198.1 >>> Complete
+Index Update: 484923.1 >>> Complete
+Index Update: 496570.1 >>> Complete
+Index Update: 497354.1 >>> Complete
+Index Update: 497131.1 >>> Complete
+Index Update: 495309.1 >>> Complete
+Index Update: 496711.1 >>> Complete
+Index Update: 496687.1 >>> Complete
+Index Update: 497032.1 >>> Complete
+Index Update: 497545.1 >>> Complete
+Index Update: 494427.1 >>> Complete
+Index Update: 497347.1 >>> Complete
+Index Update: 495598.1 >>> Complete
+Index Update: 497214.1 >>> Complete
+Index Update: 496729.1 >>> Complete
+Index Update: 492967.1 >>> Complete
+Index Update: 498642.1 >>> Complete
+Index Update: 497115.1 >>> Complete
+Index Update: 495283.1 >>> Complete
+Index Update: 496877.1 >>> Complete
+Index Update: 496836.1 >>> Complete
+Index Update: 497438.1 >>> Complete
+Index Update: 496661.1 >>> Complete
+Index Update: 493700.1 >>> Complete
+Index Update: 497321.1 >>> Complete
+Index Update: 495903.1 >>> Complete
+Index Update: 498485.1 >>> Complete
+Index Update: 497818.1 >>> Complete
+Index Update: 496679.1 >>> Complete
+Index Update: 497420.1 >>> Complete
+Index Update: 496489.1 >>> Complete
+Index Update: 498725.1 >>> Complete
+Index Update: 497339.1 >>> Complete
+Index Update: 496521.1 >>> Complete
+Index Update: 498527.1 >>> Complete
+Index Update: 497669.1 >>> Complete
+Index Update: 497990.1 >>> Complete
+Index Update: 496760.1 >>> Complete
+Index Update: 498055.1 >>> Complete
+Index Update: 498576.1 >>> Complete
+Index Update: 499145.1 >>> Complete
+Index Update: 498949.1 >>> Complete
+Index Update: 499152.1 >>> Complete

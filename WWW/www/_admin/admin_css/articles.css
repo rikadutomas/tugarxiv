@@ -1,0 +1,26 @@
+.user-table-container {
+    margin: 20px;
+}
+.user-table > tbody > tr > th, .user-table > tbody > tr > td {
+    border-collapse: collapse;
+    padding: 5px 15px;
+    text-align: left;
+    cursor: pointer;
+
+}
+.user-table > tbody > tr:nth-child(even) {
+    background-color: rgb(220, 211, 211);
+}
+.user-table > tbody > tr:nth-child(odd) {
+   background-color: rgb(189, 180, 180);
+}
+.user-table > tbody > tr > th {
+    background-color: #3F372D;
+    color: white;
+}
+.user-table > tbody > tr:hover {
+    background-color: var(--y);
+}
+.user-table > tbody > tr > td > img {
+    height: 18px;
+}
